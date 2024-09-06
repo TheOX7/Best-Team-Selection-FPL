@@ -48,7 +48,7 @@ with st.sidebar:
     
     enter()
 
-    # logo_link('', r'../assets/pl-logo.png', 100)
+    logo_link('', r'assets/pl-logo.png', 100)
     enter()
     horizontal_line()
 
@@ -86,7 +86,7 @@ if selected == 'Rec. Starting Eleven':
     
     gw = 1
     
-    data = pd.read_csv(f'../data/pulp/gw-{gw}/rec-gw-{gw}-starting-lineup.csv')
+    data = pd.read_csv(f'data/pulp/gw-{gw}/rec-gw-{gw}-starting-lineup.csv')
     
     with col_1:
         header_text('Predicted Starting Lineup + Substitution (15 Players & Under 100£)', 20 )
@@ -94,7 +94,7 @@ if selected == 'Rec. Starting Eleven':
         selected_gw = st.selectbox('Select Gameweek', [1, 2])
         gw = selected_gw
         
-        data = pd.read_csv(f'../data/pulp/gw-{gw}/rec-gw-{gw}-starting-lineup.csv')
+        data = pd.read_csv(f'data/pulp/gw-{gw}/rec-gw-{gw}-starting-lineup.csv')
         st.dataframe(data, height=562, use_container_width=True, hide_index=True)
         
     with col_2:                
@@ -105,7 +105,7 @@ if selected == 'Rec. Starting Eleven':
                     <a href={url} style="text-decoration: none;">Team of The Week - Gameweek {gw}</a>
                 </div>
             """, unsafe_allow_html=True)
-            st.image('../assets/totw-gw-1.png', use_column_width=True)
+            st.image('assets/totw-gw-1.png', use_column_width=True)
         if gw == 2:
             url = f'https://fantasy.premierleague.com/team-of-the-week/{gw}'
             st.markdown(f"""
@@ -113,7 +113,7 @@ if selected == 'Rec. Starting Eleven':
                     <a href={url} style="text-decoration: none;">Team of The Week - Gameweek {gw}</a>
                 </div>
             """, unsafe_allow_html=True)
-            st.image('../assets/totw-gw-2.png', use_column_width=True)
+            st.image('assets/totw-gw-2.png', use_column_width=True)
     
     horizontal_line()
     
@@ -123,7 +123,7 @@ if selected == 'Rec. Starting Eleven':
     
     col_1, col_2 = st.columns(2)
     
-    data = pd.read_csv(f'../data/pulp/gw-{gw}/players-predicted-gw-{gw}-points.csv')
+    data = pd.read_csv(f'data/pulp/gw-{gw}/players-predicted-gw-{gw}-points.csv')
     data = data.sort_values(by='predicted_total_points', ascending=False)
     
     with col_1:
@@ -147,7 +147,7 @@ if selected == 'Player Performance H2H':
     horizontal_line()
  
     # Load data
-    data = pd.read_csv('../data/processed/last-5-stats.csv')
+    data = pd.read_csv('data/processed/last-5-stats.csv')
 
     # Filter berdasarkan musim
     data_last_5 = data[data['season'].isin(['2023/24', '2024/25'])].reset_index(drop=True)
@@ -295,7 +295,7 @@ if selected == 'Player Stats':
     horizontal_line()
  
     # Load data
-    data = pd.read_csv('../data/processed/last-5-stats.csv')
+    data = pd.read_csv('data/processed/last-5-stats.csv')
 
     # Filter berdasarkan musim
     data_last_5 = data[data['season'].isin(['2023/24', '2024/25'])].reset_index(drop=True)
