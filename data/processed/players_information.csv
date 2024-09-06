@@ -12,7 +12,7 @@ Alex McCarthy,Goalkeeper,England,Southampton,2024/25
 Lukasz Fabianski,Goalkeeper,Poland,West Ham United,2024/25
 Martin Dúbravka,Goalkeeper,Slovakia,Newcastle United,2024/25
 Stefan Ortega,Goalkeeper,Germany,Manchester City,2023/24
-Kepa,Goalkeeper,Spain,Chelsea,2023/24
+Kepa Arrizabalaga,Goalkeeper,Spain,Chelsea,2023/24
 Mark Travers,Goalkeeper,Ireland,Bournemouth,2023/24
 Robert Sánchez,Goalkeeper,Spain,Brighton & Hove Albion,2023/24
 Jordan Pickford,Goalkeeper,England,Everton,2023/24
@@ -54,7 +54,7 @@ David de Gea,Goalkeeper,Spain,Manchester United,2023/24
 Jordan Pickford,Goalkeeper,England,Everton,2022/23
 José Sá,Goalkeeper,Portugal,Wolverhampton Wanderers,2023/24
 Emiliano Martínez,Goalkeeper,Argentina,Aston Villa,2022/23
-Kepa,Goalkeeper,Spain,Chelsea,2022/23
+Kepa Arrizabalaga,Goalkeeper,Spain,Chelsea,2022/23
 David Raya,Goalkeeper,Spain,Brentford,2022/23
 Alisson Becker,Goalkeeper,Brazil,Liverpool,2022/23
 Illan Meslier,Goalkeeper,France,Leeds United,2022/23
@@ -62,7 +62,7 @@ Ethan Horvath,Goalkeeper,United States,Nottingham Forest,2022/23
 Hugo Lloris,Goalkeeper,France,Tottenham Hotspur,2022/23
 David de Gea,Goalkeeper,Spain,Manchester United,2022/23
 Nick Pope,Goalkeeper,England,Burnley,2021/22
-Kepa,Goalkeeper,Spain,Chelsea,2021/22
+Kepa Arrizabalaga,Goalkeeper,Spain,Chelsea,2021/22
 Matija Sarkic,Goalkeeper,Montenegro,Wolverhampton Wanderers,2022/23
 David Raya,Goalkeeper,Spain,Brentford,2021/22
 Jason Steele,Goalkeeper,England,Brighton & Hove Albion,2021/22
@@ -70,7 +70,7 @@ Jed Steer,Goalkeeper,England,Aston Villa,2021/22
 Jack Butland,Goalkeeper,England,Crystal Palace,2021/22
 Jordan Pickford,Goalkeeper,England,Everton,2021/22
 Alisson Becker,Goalkeeper,Brazil,Liverpool,2021/22
-Ederson,Goalkeeper,Brazil,Manchester City,2021/22
+Ederson Moraes,Goalkeeper,Brazil,Manchester City,2021/22
 Illan Meslier,Goalkeeper,France,Leeds United,2021/22
 Kasper Schmeichel,Goalkeeper,Denmark,Leicester City,2021/22
 Tim Krul,Goalkeeper,Netherlands,Norwich City,2021/22
@@ -91,7 +91,7 @@ Kiko Casilla,Goalkeeper,Spain,Leeds United,2020/21
 Kasper Schmeichel,Goalkeeper,Denmark,Leicester City,2020/21
 Loris Karius,Goalkeeper,Germany,Liverpool,2020/21
 Claudio Bravo,Goalkeeper,Chile,Manchester City,2020/21
-Kepa,Goalkeeper,Spain,Chelsea,2020/21
+Kepa Arrizabalaga,Goalkeeper,Spain,Chelsea,2020/21
 Wayne Hennessey,Goalkeeper,Wales,Crystal Palace,2020/21
 David de Gea,Goalkeeper,Spain,Manchester United,2020/21
 Mark Gillespie,Goalkeeper,England,Newcastle United,2020/21
@@ -104,7 +104,7 @@ Matija Sarkic,Goalkeeper,Montenegro,Wolverhampton Wanderers,2020/21
 Petr Cech,Goalkeeper,Czech Republic,Arsenal,2019/20
 Ørjan Nyland,Goalkeeper,Norway,Aston Villa,2019/20
 Tom Heaton,Goalkeeper,England,Burnley,2019/20
-Kepa,Goalkeeper,Spain,Chelsea,2019/20
+Kepa Arrizabalaga,Goalkeeper,Spain,Chelsea,2019/20
 Artur Boruc,Goalkeeper,Poland,Bournemouth,2019/20
 Mathew Ryan,Goalkeeper,Australia,Brighton & Hove Albion,2019/20
 Julian Speroni,Goalkeeper,Argentina,Crystal Palace,2019/20
@@ -255,7 +255,7 @@ David Raya,Goalkeeper,Spain,Arsenal,2024/25
 Tommy Setford,Goalkeeper,England,Arsenal,2024/25
 Riccardo Calafiori,Defender,Italy,Arsenal,2024/25
 Mikel Merino,Midfielder,Spain,Arsenal,2024/25
-Neto,Goalkeeper,Brazil,Arsenal,2024/25
+Norberto Murara Neto,Goalkeeper,Brazil,Arsenal,2024/25
 Raheem Sterling,Forward,England,Arsenal,2024/25
 Ferdi Kadioglu,Midfielder,Turkey,Brighton & Hove Albion,2024/25
 Robert Sánchez,Goalkeeper,Spain,Chelsea,2024/25
@@ -390,7 +390,7 @@ Amadou Onana,Midfielder,Belgium,Aston Villa,2024/25
 Sil Swinkels,Defender,Netherlands,Aston Villa,2024/25
 Lamare Bogarde,Defender,Netherlands,Aston Villa,2024/25
 Oliwier Zych,Goalkeeper,Poland,Aston Villa,2024/25
-Kepa,Goalkeeper,Spain,Bournemouth,2024/25
+Kepa Arrizabalaga,Goalkeeper,Spain,Bournemouth,2024/25
 Nathan Collins,Defender,Ireland,Brentford,2024/25
 Aaron Hickey,Defender,Scotland,Brentford,2024/25
 Rico Henry,Defender,England,Brentford,2024/25
@@ -478,7 +478,7 @@ Jamal Lewis,Defender,Northern Ireland,Newcastle United,2024/25
 John Ruddy,Goalkeeper,England,Newcastle United,2024/25
 Odysseas Vlachodimos,Goalkeeper,Greece,Newcastle United,2024/25
 Lewis Hall,Defender,England,Newcastle United,2024/25
-Ederson,Goalkeeper,Brazil,Manchester City,2024/25
+Ederson Moraes,Goalkeeper,Brazil,Manchester City,2024/25
 Scott Carson,Goalkeeper,England,Manchester City,2024/25
 Kyle Walker,Defender,England,Manchester City,2024/25
 Rúben Dias,Defender,Portugal,Manchester City,2024/25
@@ -1149,7 +1149,7 @@ Luke Berry,Midfielder,England,Luton Town,2023/24
 Marvelous Nakamba,Midfielder,Zimbabwe,Luton Town,2023/24
 Pelly Ruddock Mpanzu,Midfielder,DR Congo,Luton Town,2023/24
 Jordan Clark,Midfielder,England,Luton Town,2023/24
-Ederson,Goalkeeper,Brazil,Manchester City,2023/24
+Ederson Moraes,Goalkeeper,Brazil,Manchester City,2023/24
 Scott Carson,Goalkeeper,England,Manchester City,2023/24
 Kyle Walker,Defender,England,Manchester City,2023/24
 Rúben Dias,Defender,Portugal,Manchester City,2023/24
@@ -1638,7 +1638,7 @@ Ryan Glover,Midfielder,England,Bournemouth,2022/23
 Christian Saydee,Forward,England,Bournemouth,2022/23
 Ryan Fredericks,Defender,England,Bournemouth,2022/23
 Marcus Tavernier,Midfielder,England,Bournemouth,2022/23
-Neto,Goalkeeper,Brazil,Bournemouth,2022/23
+Norberto Murara Neto,Goalkeeper,Brazil,Bournemouth,2022/23
 Marcos Senesi,Defender,Argentina,Bournemouth,2022/23
 Owen Bevan,Defender,Wales,Bournemouth,2022/23
 Chris Francis,Defender,England,Bournemouth,2022/23
@@ -2417,7 +2417,7 @@ Weston McKennie,Midfielder,United States,Leeds United,2022/23
 Diogo Monteiro,Defender,Portugal,Leeds United,2022/23
 Jeremiah Chilokoa-Mullen,Defender,Scotland,Leeds United,2022/23
 Martin Dúbravka,Goalkeeper,Slovakia,Newcastle United,2022/23
-Ederson,Goalkeeper,Brazil,Manchester City,2022/23
+Ederson Moraes,Goalkeeper,Brazil,Manchester City,2022/23
 Scott Carson,Goalkeeper,England,Manchester City,2022/23
 Cieran Slicker,Goalkeeper,Scotland,Manchester City,2022/23
 Kyle Walker,Defender,England,Manchester City,2022/23
@@ -4596,7 +4596,7 @@ Daniel Barlaser,Midfielder,England,Newcastle United,2020/21
 Joe Willock,Midfielder,England,Newcastle United,2020/21
 Elliot Anderson,Midfielder,Scotland,Newcastle United,2020/21
 Ben Woodburn,Forward,Wales,Liverpool,2020/21
-Ederson,Goalkeeper,Brazil,Manchester City,2020/21
+Ederson Moraes,Goalkeeper,Brazil,Manchester City,2020/21
 Nathan Aké,Defender,Netherlands,Manchester City,2020/21
 Pedro Porro,Defender,Spain,Manchester City,2020/21
 Kyle Walker,Defender,England,Manchester City,2020/21
@@ -5231,7 +5231,7 @@ Dennis Adeniran,Midfielder,England,Everton,2019/20
 Jarrad Branthwaite,Defender,England,Everton,2019/20
 Lewis Gibson,Defender,England,Everton,2019/20
 Ellis Simms,Forward,England,Everton,2019/20
-Ederson,Goalkeeper,Brazil,Manchester City,2019/20
+Ederson Moraes,Goalkeeper,Brazil,Manchester City,2019/20
 Daniel Grimshaw,Goalkeeper,England,Manchester City,2019/20
 Arijanet Muric,Goalkeeper,Kosovo,Manchester City,2019/20
 Kyle Walker,Defender,England,Manchester City,2019/20
@@ -6115,7 +6115,7 @@ Kasey Palmer,Midfielder,Jamaica,Chelsea,2018/19
 Mario Pasalic,Midfielder,Croatia,Chelsea,2018/19
 Tammy Abraham,Forward,England,Chelsea,2018/19
 Robert Green,Goalkeeper,England,Chelsea,2018/19
-Kepa,Goalkeeper,Spain,Chelsea,2018/19
+Kepa Arrizabalaga,Goalkeeper,Spain,Chelsea,2018/19
 Mateo Kovacic,Midfielder,Croatia,Chelsea,2018/19
 Isaiah Brown,Forward,England,Chelsea,2018/19
 Jamie Cumming,Goalkeeper,England,Chelsea,2018/19
@@ -6275,7 +6275,7 @@ Islam Slimani,Forward,Algeria,Leicester City,2018/19
 Ahmed Musa,Forward,Nigeria,Leicester City,2018/19
 Leonardo Ulloa,Forward,Argentina,Leicester City,2018/19
 Danny Ward,Goalkeeper,Wales,Leicester City,2018/19
-Ederson,Goalkeeper,Brazil,Manchester City,2018/19
+Ederson Moraes,Goalkeeper,Brazil,Manchester City,2018/19
 Daniel Grimshaw,Goalkeeper,England,Manchester City,2018/19
 Kyle Walker,Defender,England,Manchester City,2018/19
 Danilo,Defender,Brazil,Manchester City,2018/19
@@ -7164,7 +7164,7 @@ Diego Costa,Forward,Spain,Chelsea,2017/18
 Michy Batshuayi,Forward,Belgium,Chelsea,2017/18
 Antonio Rüdiger,Defender,Germany,Chelsea,2017/18
 Tiémoué Bakayoko,Midfielder,France,Chelsea,2017/18
-Ederson,Goalkeeper,Brazil,Manchester City,2017/18
+Ederson Moraes,Goalkeeper,Brazil,Manchester City,2017/18
 Bernardo Silva,Midfielder,Portugal,Manchester City,2017/18
 Claudio Bravo,Goalkeeper,Chile,Manchester City,2017/18
 Vincent Kompany,Defender,Belgium,Manchester City,2017/18
@@ -8677,7 +8677,7 @@ Joseph O'Brien-Whitmarsh,Midfielder,Ireland,Southampton,2024/25
 Aaron Ramsdale,Goalkeeper,England,Southampton,2024/25
 Ryan Fraser,Midfielder,Scotland,Southampton,2024/25
 Darren Randolph,Goalkeeper,Ireland,Bournemouth,2023/24
-Neto,Goalkeeper,Brazil,Bournemouth,2023/24
+Norberto Murara Neto,Goalkeeper,Brazil,Bournemouth,2023/24
 Cameron Plain,Goalkeeper,England,Bournemouth,2023/24
 Ryan Fredericks,Defender,England,Bournemouth,2023/24
 Jack Stephens,Defender,England,Bournemouth,2023/24
