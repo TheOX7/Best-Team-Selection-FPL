@@ -48,7 +48,7 @@ with st.sidebar:
     
     enter()
 
-    logo_link('', r'../assets/pl-logo.png', 100)
+    # logo_link('', r'../assets/pl-logo.png', 100)
     enter()
     horizontal_line()
 
