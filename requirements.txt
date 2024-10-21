@@ -3,3 +3,4 @@ pandas
 streamlit_option_menu
 streamlit_echarts
 streamlit_extras
+pulp
