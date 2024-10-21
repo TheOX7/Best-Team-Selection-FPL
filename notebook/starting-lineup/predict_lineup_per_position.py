@@ -64,7 +64,7 @@ def fpl_selection(gw=GW, positions=['DEF', 'MID', 'FWD', 'GK']):
         df['opponent_team'] = df['opponent_team'].map(team_dict)
 
         # Load model machine learning (Random Forest atau model lain yang sudah dilatih)
-        FILE_PATH = os.path.join(MAIN_FOLDER, f'model/{position}/model.joblib')
+        FILE_PATH = os.path.join(MAIN_FOLDER, f'model/model_{position}.joblib')
         model = joblib.load(FILE_PATH)
 
         # Prediksi total points menggunakan model

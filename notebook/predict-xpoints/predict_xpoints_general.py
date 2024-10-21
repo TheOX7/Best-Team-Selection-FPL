@@ -329,6 +329,6 @@ print(f" -- Model Fitted -- \n")
 
 """Dumping Model"""
 
-FILE_PATH = os.path.join(MAIN_FOLDER, f'model/{position}/model.joblib')
+FILE_PATH = os.path.join(MAIN_FOLDER, f'model/model_{position}.joblib')
 joblib.dump(rf, FILE_PATH)
 print(f" -- Model Dumped -- \n")
