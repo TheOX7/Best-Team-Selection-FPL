@@ -1,0 +1,182 @@
+{
+  "total_points": {
+    "min": -7.0,
+    "max": 29.0
+  },
+  "value": {
+    "min": 36.0,
+    "max": 154.0
+  },
+  "was_home": {
+    "min": 0.0,
+    "max": 1.0
+  },
+  "team_last_5_points_h2h": {
+    "min": 0.0,
+    "max": 15.0
+  },
+  "team_last_5_points_vs_all": {
+    "min": 0.0,
+    "max": 15.0
+  },
+  "tot_assists_last_5_h2h": {
+    "min": 0.0,
+    "max": 7.0
+  },
+  "tot_assists_last_5": {
+    "min": 0.0,
+    "max": 8.0
+  },
+  "tot_bonus_last_5_h2h": {
+    "min": 0.0,
+    "max": 12.0
+  },
+  "tot_bonus_last_5": {
+    "min": 0.0,
+    "max": 14.0
+  },
+  "tot_bps_last_5_h2h": {
+    "min": -19.0,
+    "max": 255.0
+  },
+  "tot_bps_last_5": {
+    "min": -22.0,
+    "max": 317.0
+  },
+  "tot_clean_sheets_last_5_h2h": {
+    "min": 0.0,
+    "max": 5.0
+  },
+  "tot_clean_sheets_last_5": {
+    "min": 0.0,
+    "max": 5.0
+  },
+  "tot_goals_conceded_last_5_h2h": {
+    "min": 0.0,
+    "max": 22.0
+  },
+  "tot_goals_conceded_last_5": {
+    "min": 0.0,
+    "max": 20.0
+  },
+  "tot_goals_scored_last_5_h2h": {
+    "min": 0.0,
+    "max": 9.0
+  },
+  "tot_goals_scored_last_5": {
+    "min": 0.0,
+    "max": 11.0
+  },
+  "tot_own_goals_last_5_h2h": {
+    "min": 0.0,
+    "max": 2.0
+  },
+  "tot_own_goals_last_5": {
+    "min": 0.0,
+    "max": 2.0
+  },
+  "tot_penalties_missed_last_5_h2h": {
+    "min": 0.0,
+    "max": 2.0
+  },
+  "tot_penalties_missed_last_5": {
+    "min": 0.0,
+    "max": 2.0
+  },
+  "tot_penalties_saved_last_5_h2h": {
+    "min": 0.0,
+    "max": 2.0
+  },
+  "tot_penalties_saved_last_5": {
+    "min": 0.0,
+    "max": 2.0
+  },
+  "tot_red_cards_last_5_h2h": {
+    "min": 0.0,
+    "max": 2.0
+  },
+  "tot_red_cards_last_5": {
+    "min": 0.0,
+    "max": 2.0
+  },
+  "tot_yellow_cards_last_5_h2h": {
+    "min": 0.0,
+    "max": 5.0
+  },
+  "tot_yellow_cards_last_5": {
+    "min": 0.0,
+    "max": 5.0
+  },
+  "tot_saves_last_5_h2h": {
+    "min": 0.0,
+    "max": 32.0
+  },
+  "tot_saves_last_5": {
+    "min": 0.0,
+    "max": 41.0
+  },
+  "tot_total_points_last_5_h2h": {
+    "min": -5.0,
+    "max": 79.0
+  },
+  "tot_total_points_last_5": {
+    "min": -5.0,
+    "max": 79.0
+  },
+  "tot_team_points_last_5_h2h": {
+    "min": 0.0,
+    "max": 15.0
+  },
+  "tot_team_points_last_5": {
+    "min": 0.0,
+    "max": 15.0
+  },
+  "avg_ict_index_last_5_h2h": {
+    "min": 0.0,
+    "max": 33.0
+  },
+  "avg_ict_index_last_5": {
+    "min": 0.0,
+    "max": 20.0
+  },
+  "avg_influence_last_5_h2h": {
+    "min": 0.0,
+    "max": 135.0
+  },
+  "avg_influence_last_5": {
+    "min": 0.0,
+    "max": 87.0
+  },
+  "avg_creativity_last_5_h2h": {
+    "min": 0.0,
+    "max": 124.0
+  },
+  "avg_creativity_last_5": {
+    "min": 0.0,
+    "max": 94.0
+  },
+  "avg_threat_last_5_h2h": {
+    "min": 0.0,
+    "max": 199.0
+  },
+  "avg_threat_last_5": {
+    "min": 0.0,
+    "max": 112.0
+  },
+  "avg_selected_last_5_h2h": {
+    "min": 0.0,
+    "max": 9556620.0
+  },
+  "avg_selected_last_5": {
+    "min": 0.0,
+    "max": 9558294.0
+  },
+  "avg_minutes_last_5_h2h": {
+    "min": 0.0,
+    "max": 90.0
+  },
+  "avg_minutes_last_5": {
+    "min": 0.0,
+    "max": 90.0
+  }
+}
