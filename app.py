@@ -6,7 +6,6 @@ from streamlit_option_menu import option_menu
 from streamlit_echarts import st_echarts 
 from pulp_rec_lineup import pulp_model  # Import fungsi dari file pulp_rec_lineup.py
 from streamlit_extras.colored_header import colored_header
-from streamlit_carousel import carousel
 
 def horizontal_line():
     st.markdown(f'<hr>', unsafe_allow_html=True)
