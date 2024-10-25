@@ -1,16 +1,16 @@
-name,position,team,opponent_team,price,condition,xTotPoints
-Robert Sánchez,GK,Chelsea,Liverpool,4.7,1.0,7.48
-André Onana,GK,Manchester United,Brentford,5.0,1.0,5.25
-Ibrahima Konaté,DEF,Liverpool,Chelsea,5.2,1.0,5.71
-Gabriel dos Santos Magalhães,DEF,Arsenal,Bournemouth,6.2,1.0,5.23
-Marc Guéhi,DEF,Crystal Palace,Nottingham Forest,4.4,1.0,4.56
-Cole Palmer,MID,Chelsea,Liverpool,10.8,1.0,6.87
-Bukayo Saka,MID,Arsenal,Bournemouth,10.1,0.75,8.27
-Dwight McNeil,MID,Everton,Ipswich Town,5.7,1.0,6.93
-Christopher Nkunku,MID,Chelsea,Liverpool,6.0,1.0,5.29
-Jack Grealish,MID,Manchester City,Wolverhampton Wanderers,6.4,1.0,5.44
-Luis Díaz,MID,Liverpool,Chelsea,8.0,1.0,7.28
-Brennan Johnson,MID,Tottenham Hotspur,West Ham United,6.6,1.0,5.76
-Chris Wood,FWD,Nottingham Forest,Crystal Palace,6.2,1.0,6.08
-Ollie Watkins,FWD,Aston Villa,Fulham,9.1,1.0,8.24
-Raúl Jiménez,FWD,Fulham,Aston Villa,5.6,1.0,7.9
+name,position,team,opponent_team,price,condition,xTotPoints,total_points
+Robert Sánchez,GK,Chelsea,Liverpool,4.7,1.0,7.48,2
+André Onana,GK,Manchester United,Brentford,5.0,1.0,5.25,2
+Ibrahima Konaté,DEF,Liverpool,Chelsea,5.2,1.0,5.71,1
+Gabriel dos Santos Magalhães,DEF,Arsenal,Bournemouth,6.2,1.0,5.23,1
+Marc Guéhi,DEF,Crystal Palace,Nottingham Forest,4.4,1.0,4.56,2
+Cole Palmer,MID,Chelsea,Liverpool,10.8,1.0,6.87,2
+Bukayo Saka,MID,Arsenal,Bournemouth,10.1,0.75,8.27,0
+Dwight McNeil,MID,Everton,Ipswich Town,5.7,1.0,6.93,6
+Christopher Nkunku,MID,Chelsea,Liverpool,6.0,1.0,5.29,1
+Jack Grealish,MID,Manchester City,Wolverhampton Wanderers,6.4,1.0,5.44,1
+Luis Díaz,MID,Liverpool,Chelsea,8.0,1.0,7.28,1
+Brennan Johnson,MID,Tottenham Hotspur,West Ham United,6.6,1.0,5.76,2
+Chris Wood,FWD,Nottingham Forest,Crystal Palace,6.2,1.0,6.08,7
+Ollie Watkins,FWD,Aston Villa,Fulham,9.1,1.0,8.24,8
+Raúl Jiménez,FWD,Fulham,Aston Villa,5.6,1.0,7.9,7

@@ -84,7 +84,7 @@ with st.sidebar:
     
 if selected == 'Rec. Starting Eleven':
     horizontal_line()
-    header_text('Fantasy Premier League (FPL) <br> Starting Lineup Recommendation', 36)
+    header_text('Fantasy Premier League (FPL) <br> Starting Lineup Recommendations', 36)
     horizontal_line()
     
     col_1, col_2 = st.columns(2)
@@ -93,8 +93,8 @@ if selected == 'Rec. Starting Eleven':
     option = ''
     
     with col_1:
-        header_text('Recommendation Starting Lineup', 20)
-        header_text('Include Substitution (15 Players & Under 100£)', 16)
+        header_text('Starting Lineup Recommendations', 20)
+        header_text('Includes Substitutions (15 Players & Under £100)', 16)
         
         col_1_1, col_1_2 = st.columns(2)
         with col_1_1:
@@ -138,7 +138,7 @@ if selected == 'Rec. Starting Eleven':
             st.warning(f'Team of The Week for Gameweek {gw} is not available yet.')
     
     horizontal_line()
-    header_text(f'All Premier League Players Expected Points for GW {gw}', 32)    
+    header_text(f'Gameweek {gw}: Expected Points (xTotPoints) for FPL Players', 32) 
     horizontal_line()
     data = data.sort_values(by='xTotPoints', ascending=False)
     st.dataframe(data, height=600, use_container_width=True, hide_index=True)

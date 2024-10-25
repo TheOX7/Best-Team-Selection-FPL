@@ -1,16 +1,16 @@
-name,position,element,team,opponent_team,price,condition,xTotPoints
-Robert Sánchez,GK,185,Chelsea,Liverpool,4.7,1.0,6.19
-André Onana,GK,383,Manchester United,Brentford,5.0,1.0,4.37
-James Justin,DEF,295,Leicester City,Southampton,4.6,1.0,4.12
-Ibrahima Konaté,DEF,326,Liverpool,Chelsea,5.2,1.0,5.4
-Marc Guéhi,DEF,200,Crystal Palace,Nottingham Forest,4.4,1.0,4.4
-Cole Palmer,MID,182,Chelsea,Liverpool,10.8,1.0,8.6
-Bukayo Saka,MID,17,Arsenal,Bournemouth,10.1,0.75,7.04
-Dwight McNeil,MID,230,Everton,Ipswich Town,5.7,1.0,4.93
-Luis Díaz,MID,327,Liverpool,Chelsea,8.0,1.0,8.25
-Bryan Mbeumo,MID,99,Brentford,Manchester United,7.5,1.0,7.04
-Harvey Barnes,MID,392,Newcastle United,Brighton & Hove Albion,6.5,1.0,6.39
-Brennan Johnson,MID,491,Tottenham Hotspur,West Ham United,6.6,1.0,6.24
-Chris Wood,FWD,447,Nottingham Forest,Crystal Palace,6.2,1.0,5.69
-Ollie Watkins,FWD,58,Aston Villa,Fulham,9.1,1.0,8.78
-Raúl Jiménez,FWD,252,Fulham,Aston Villa,5.6,1.0,7.11
+name,position,element,team,opponent_team,price,condition,xTotPoints,total_points
+Robert Sánchez,GK,185,Chelsea,Liverpool,4.7,1.0,6.19,2
+André Onana,GK,383,Manchester United,Brentford,5.0,1.0,4.37,2
+James Justin,DEF,295,Leicester City,Southampton,4.6,1.0,4.12,1
+Ibrahima Konaté,DEF,326,Liverpool,Chelsea,5.2,1.0,5.4,1
+Marc Guéhi,DEF,200,Crystal Palace,Nottingham Forest,4.4,1.0,4.4,2
+Cole Palmer,MID,182,Chelsea,Liverpool,10.8,1.0,8.6,2
+Bukayo Saka,MID,17,Arsenal,Bournemouth,10.1,0.75,7.04,0
+Dwight McNeil,MID,230,Everton,Ipswich Town,5.7,1.0,4.93,6
+Luis Díaz,MID,327,Liverpool,Chelsea,8.0,1.0,8.25,1
+Bryan Mbeumo,MID,99,Brentford,Manchester United,7.5,1.0,7.04,2
+Harvey Barnes,MID,392,Newcastle United,Brighton & Hove Albion,6.5,1.0,6.39,1
+Brennan Johnson,MID,491,Tottenham Hotspur,West Ham United,6.6,1.0,6.24,2
+Chris Wood,FWD,447,Nottingham Forest,Crystal Palace,6.2,1.0,5.69,7
+Ollie Watkins,FWD,58,Aston Villa,Fulham,9.1,1.0,8.78,8
+Raúl Jiménez,FWD,252,Fulham,Aston Villa,5.6,1.0,7.11,7
