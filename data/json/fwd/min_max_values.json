@@ -37,7 +37,7 @@
   },
   "tot_bps_last_5_h2h": {
     "min": -19.0,
-    "max": 255.0
+    "max": 220.0
   },
   "tot_bps_last_5": {
     "min": -21.0,
@@ -61,7 +61,7 @@
   },
   "tot_goals_scored_last_5_h2h": {
     "min": 0.0,
-    "max": 9.0
+    "max": 8.0
   },
   "tot_goals_scored_last_5": {
     "min": 0.0,
