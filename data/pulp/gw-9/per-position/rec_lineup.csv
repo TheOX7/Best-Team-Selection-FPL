@@ -1,16 +1,16 @@
-name,position,element,team,opponent_team,price,condition,xTotPoints
-André Onana,GK,383,Manchester United,West Ham United,5.0,1.0,5.45
-Jordan Pickford,GK,235,Everton,Fulham,4.8,1.0,8.18
-Trent Alexander-Arnold,DEF,311,Liverpool,Arsenal,7.1,1.0,5.41
-Diogo Dalot Teixeira,DEF,369,Manchester United,West Ham United,5.1,1.0,7.22
-Ashley Young,DEF,238,Everton,Fulham,4.5,1.0,4.67
-Cole Palmer,MID,182,Chelsea,Newcastle United,10.9,1.0,10.59
-Gabriel Martinelli Silva,MID,9,Arsenal,Liverpool,7.0,1.0,7.0
-Facundo Buonanotte,MID,117,Leicester City,Nottingham Forest,5.0,1.0,6.04
-Dwight McNeil,MID,230,Everton,Fulham,5.8,1.0,7.9
-Alejandro Garnacho,MID,372,Manchester United,West Ham United,6.2,1.0,8.1
-Chris Wood,FWD,447,Nottingham Forest,Leicester City,6.3,1.0,6.64
-Nicolas Jackson,FWD,180,Chelsea,Newcastle United,7.9,1.0,5.99
-Danny Welbeck,FWD,148,Brighton & Hove Albion,Wolverhampton Wanderers,5.9,0.75,6.93
-Ollie Watkins,FWD,58,Aston Villa,Bournemouth,9.1,1.0,7.97
-Raúl Jiménez,FWD,252,Fulham,Everton,5.7,1.0,6.22
+name,position,element,team,opponent_team,price,condition,xTotPoints,total_points
+André Onana,GK,383,Manchester United,West Ham United,5.0,1.0,5.45,1
+Jordan Pickford,GK,235,Everton,Fulham,4.8,1.0,8.18,2
+Trent Alexander-Arnold,DEF,311,Liverpool,Arsenal,7.1,1.0,5.41,1
+Diogo Dalot Teixeira,DEF,369,Manchester United,West Ham United,5.1,1.0,7.22,1
+Ashley Young,DEF,238,Everton,Fulham,4.5,1.0,4.67,6
+Cole Palmer,MID,182,Chelsea,Newcastle United,10.9,1.0,10.59,10
+Gabriel Martinelli Silva,MID,9,Arsenal,Liverpool,7.0,1.0,7.0,2
+Facundo Buonanotte,MID,117,Leicester City,Nottingham Forest,5.0,1.0,6.04,2
+Dwight McNeil,MID,230,Everton,Fulham,5.8,1.0,7.9,2
+Alejandro Garnacho,MID,372,Manchester United,West Ham United,6.2,1.0,8.1,2
+Chris Wood,FWD,447,Nottingham Forest,Leicester City,6.3,1.0,6.64,13
+Nicolas Jackson,FWD,180,Chelsea,Newcastle United,7.9,1.0,5.99,9
+Danny Welbeck,FWD,148,Brighton & Hove Albion,Wolverhampton Wanderers,5.9,0.75,6.93,7
+Ollie Watkins,FWD,58,Aston Villa,Bournemouth,9.1,1.0,7.97,2
+Raúl Jiménez,FWD,252,Fulham,Everton,5.7,1.0,6.22,2

@@ -2,7 +2,7 @@ import pulp
 
 def pulp_model(df):
     
-    # Definisikan masalah optimisasi (tujuan: memaksimalkan total points)
+    # Definisikan masalah optimisasi (Tujuan: Memaksimalkan total points)
     problem = pulp.LpProblem("Best_Starting_Eleven", pulp.LpMaximize)
 
     # Definisikan variabel keputusan (binary) untuk setiap pemain
@@ -21,13 +21,13 @@ def pulp_model(df):
     for team in df['team'].unique():
         problem += pulp.lpSum([player_vars[i] for i in df.index if df.loc[i, 'team'] == team]) <= 3, f"Max_3_Players_from_{team}"
 
-    # Constraint 5: Batas maksimal jumlah pemain per posisi
+    # Constraint 4: Batas maksimal jumlah pemain per posisi
     problem += pulp.lpSum([player_vars[i] for i in df.index if df.loc[i, 'position'] == 'DEF']) == 5, "Max_5_DEF"
     problem += pulp.lpSum([player_vars[i] for i in df.index if df.loc[i, 'position'] == 'MID']) == 5, "Max_5_MID"
     problem += pulp.lpSum([player_vars[i] for i in df.index if df.loc[i, 'position'] == 'FWD']) == 3, "Max_3_FWD"
     problem += pulp.lpSum([player_vars[i] for i in df.index if df.loc[i, 'position'] == 'GK']) == 2, "Max_2_GK"
 
-    # Constraint 6: Batas harga total pemain <= 100
+    # Constraint 5: Batas harga total pemain <= 100
     problem += pulp.lpSum([player_vars[i] * df.loc[i, 'price'] for i in df.index]) <= 100, "Total_Price_Limit"
 
     # Solve the optimization problem
@@ -39,8 +39,6 @@ def pulp_model(df):
     # Definisikan urutan posisi untuk tampilan
     position_order = {'GK': 1, 'DEF': 2, 'MID': 3, 'FWD': 4}
     selected_players['position_order'] = selected_players['position'].map(position_order)
-
-    # Urutkan pemain berdasarkan posisi dan hapus kolom bantuan
     selected_players = selected_players.sort_values(by='position_order').drop(columns='position_order')
 
     return selected_players
