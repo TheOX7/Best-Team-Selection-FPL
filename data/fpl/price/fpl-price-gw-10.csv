@@ -1,0 +1,588 @@
+name,team,price,condition,position,GW
+Sels,Nottingham Forest,4.6,1.0,GK,10
+Onana,Manchester United,5.0,1.0,GK,10
+Pope,Newcastle United,5.0,1.0,GK,10
+Raya,Arsenal,5.6,1.0,GK,10
+Sánchez,Chelsea,4.7,1.0,GK,10
+Pickford,Everton,4.9,1.0,GK,10
+A.Becker,Liverpool,5.4,0.0,GK,10
+Henderson,Crystal Palace,4.4,1.0,GK,10
+Ederson M.,Manchester City,5.5,1.0,GK,10
+Martinez,Aston Villa,5.0,1.0,GK,10
+Leno,Fulham,5.0,1.0,GK,10
+Hermansen,Leicester City,4.5,1.0,GK,10
+Muric,Ipswich Town,4.4,1.0,GK,10
+Vicario,Tottenham Hotspur,5.0,1.0,GK,10
+Verbruggen,Brighton & Hove Albion,4.5,1.0,GK,10
+Ramsdale,Southampton,4.4,1.0,GK,10
+Flekken,Brentford,4.5,1.0,GK,10
+Arrizabalaga,Bournemouth,4.5,0.0,GK,10
+Kelleher,Liverpool,4.4,1.0,GK,10
+Areola,West Ham United,4.4,1.0,GK,10
+Travers,Bournemouth,4.4,1.0,GK,10
+Johnstone,Wolverhampton Wanderers,4.4,1.0,GK,10
+Steele,Brighton & Hove Albion,4.3,1.0,GK,10
+Neto,Arsenal,4.3,1.0,GK,10
+José Sá,Wolverhampton Wanderers,4.3,1.0,GK,10
+McCarthy,Southampton,4.4,1.0,GK,10
+Fabianski,West Ham United,4.0,1.0,GK,10
+Walton,Ipswich Town,4.4,1.0,GK,10
+Jaros,Liverpool,4.0,1.0,GK,10
+Setford,Arsenal,4.5,1.0,GK,10
+Gauci,Aston Villa,4.0,1.0,GK,10
+Olsen,Aston Villa,4.5,1.0,GK,10
+Zych,Aston Villa,4.0,1.0,GK,10
+Dennis,Bournemouth,4.0,1.0,GK,10
+Valdimarsson,Brentford,4.0,1.0,GK,10
+Cahill,Brighton & Hove Albion,4.0,1.0,GK,10
+Bergström,Chelsea,4.0,1.0,GK,10
+Bettinelli,Chelsea,4.0,1.0,GK,10
+Jørgensen,Chelsea,4.3,1.0,GK,10
+Matthews,Crystal Palace,4.0,1.0,GK,10
+Turner,Crystal Palace,4.0,1.0,GK,10
+J.Virginia,Everton,4.0,1.0,GK,10
+Begovic,Everton,4.0,1.0,GK,10
+Benda,Fulham,4.0,1.0,GK,10
+Slicker,Ipswich Town,4.0,1.0,GK,10
+Iversen,Leicester City,4.0,1.0,GK,10
+Stolarczyk,Leicester City,4.0,0.0,GK,10
+Ward,Leicester City,4.0,1.0,GK,10
+Davies,Liverpool,4.0,1.0,GK,10
+Carson,Manchester City,4.0,1.0,GK,10
+Ortega Moreno,Manchester City,5.3,1.0,GK,10
+Bayindir,Manchester United,4.4,1.0,GK,10
+Heaton,Manchester United,4.0,1.0,GK,10
+Dúbravka,Newcastle United,4.3,1.0,GK,10
+Odysseas,Newcastle United,4.3,1.0,GK,10
+Ruddy,Newcastle United,4.0,1.0,GK,10
+C.Miguel,Nottingham Forest,4.3,1.0,GK,10
+Bazunu,Southampton,4.3,0.0,GK,10
+Lumley,Southampton,4.0,1.0,GK,10
+Austin,Tottenham Hotspur,4.0,1.0,GK,10
+Forster,Tottenham Hotspur,4.4,1.0,GK,10
+Whiteman,Tottenham Hotspur,4.0,1.0,GK,10
+Foderingham,West Ham United,4.4,1.0,GK,10
+Bentley,Wolverhampton Wanderers,4.0,1.0,GK,10
+King,Wolverhampton Wanderers,4.0,1.0,GK,10
+Virgil,Liverpool,6.2,1.0,DEF,10
+Gvardiol,Manchester City,6.2,1.0,DEF,10
+Aina,Nottingham Forest,4.6,1.0,DEF,10
+Alexander-Arnold,Liverpool,7.0,1.0,DEF,10
+Gabriel,Arsenal,6.2,1.0,DEF,10
+Konaté,Liverpool,5.3,0.75,DEF,10
+Dalot,Manchester United,5.1,1.0,DEF,10
+Murillo,Nottingham Forest,4.5,1.0,DEF,10
+Guéhi,Crystal Palace,4.4,1.0,DEF,10
+Digne,Aston Villa,4.7,1.0,DEF,10
+Milenković,Nottingham Forest,4.5,1.0,DEF,10
+Keane,Everton,4.3,1.0,DEF,10
+Romero,Tottenham Hotspur,5.1,0.75,DEF,10
+Davis,Ipswich Town,4.5,1.0,DEF,10
+Justin,Leicester City,4.6,1.0,DEF,10
+Robertson,Liverpool,6.0,1.0,DEF,10
+Veltman,Brighton & Hove Albion,4.5,1.0,DEF,10
+Lewis,Manchester City,4.9,1.0,DEF,10
+Hall,Newcastle United,4.3,1.0,DEF,10
+Pedro Porro,Tottenham Hotspur,5.5,1.0,DEF,10
+Aït-Nouri,Wolverhampton Wanderers,4.6,1.0,DEF,10
+Young,Everton,4.5,1.0,DEF,10
+Mazraoui,Manchester United,4.5,1.0,DEF,10
+Kerkez,Bournemouth,4.4,1.0,DEF,10
+Robinson,Fulham,4.7,1.0,DEF,10
+Collins,Brentford,4.5,1.0,DEF,10
+De Ligt,Manchester United,5.0,1.0,DEF,10
+Van de Ven,Tottenham Hotspur,4.6,0.0,DEF,10
+White,Arsenal,6.3,1.0,DEF,10
+Burn,Newcastle United,4.4,1.0,DEF,10
+Alex Moreno,Nottingham Forest,4.4,1.0,DEF,10
+Mitchell,Crystal Palace,4.9,1.0,DEF,10
+Livramento,Newcastle United,4.5,1.0,DEF,10
+Muñoz,Crystal Palace,4.8,1.0,DEF,10
+Akanji,Manchester City,5.5,1.0,DEF,10
+Sugawara,Southampton,4.5,1.0,DEF,10
+J.Timber,Arsenal,5.5,1.0,DEF,10
+Zabarnyi,Bournemouth,4.4,1.0,DEF,10
+Dunk,Brighton & Hove Albion,4.4,0.5,DEF,10
+Van Hecke,Brighton & Hove Albion,4.5,1.0,DEF,10
+Tarkowski,Everton,4.8,1.0,DEF,10
+Faes,Leicester City,4.2,1.0,DEF,10
+Martinez,Manchester United,4.4,1.0,DEF,10
+Harwood-Bellis,Southampton,4.1,1.0,DEF,10
+Saliba,Arsenal,6.0,1.0,DEF,10
+Pinnock,Brentford,4.5,1.0,DEF,10
+Colwill,Chelsea,4.6,1.0,DEF,10
+Walker-Peters,Southampton,4.4,1.0,DEF,10
+Kilman,West Ham United,4.5,1.0,DEF,10
+Lacroix,Crystal Palace,4.5,1.0,DEF,10
+Stones,Manchester City,5.3,0.5,DEF,10
+Schär,Newcastle United,5.4,1.0,DEF,10
+Udogie,Tottenham Hotspur,4.9,1.0,DEF,10
+Konsa,Aston Villa,4.5,1.0,DEF,10
+Senesi,Bournemouth,4.8,1.0,DEF,10
+F.Kadıoğlu,Brighton & Hove Albion,4.5,1.0,DEF,10
+Chalobah,Crystal Palace,4.4,1.0,DEF,10
+Rúben,Manchester City,5.5,0.0,DEF,10
+Pau,Aston Villa,4.5,1.0,DEF,10
+Smith,Bournemouth,4.5,1.0,DEF,10
+Tete,Fulham,4.5,1.0,DEF,10
+Bassey,Fulham,4.5,1.0,DEF,10
+Cucurella,Chelsea,5.0,1.0,DEF,10
+Mykolenko,Everton,4.3,1.0,DEF,10
+Bednarek,Southampton,4.0,1.0,DEF,10
+Mavropanos,West Ham United,4.5,1.0,DEF,10
+Calafiori,Arsenal,5.8,0.0,DEF,10
+Kristiansen,Leicester City,4.5,1.0,DEF,10
+Okoli,Leicester City,4.0,1.0,DEF,10
+Tsimikas,Liverpool,4.6,1.0,DEF,10
+Trippier,Newcastle United,5.6,0.0,DEF,10
+N.Williams,Nottingham Forest,4.4,1.0,DEF,10
+Emerson,West Ham United,4.4,1.0,DEF,10
+Cash,Aston Villa,4.4,1.0,DEF,10
+Roerslev,Brentford,4.4,1.0,DEF,10
+W.Fofana,Chelsea,4.5,1.0,DEF,10
+O'Shea,Ipswich Town,4.0,1.0,DEF,10
+Evans,Manchester United,4.4,1.0,DEF,10
+Wan-Bissaka,West Ham United,4.4,1.0,DEF,10
+Diego Carlos,Aston Villa,4.5,1.0,DEF,10
+Andersen,Fulham,4.3,1.0,DEF,10
+Greaves,Ipswich Town,4.1,0.0,DEF,10
+Tuanzebe,Ipswich Town,4.0,0.0,DEF,10
+Dawson,Wolverhampton Wanderers,4.4,1.0,DEF,10
+N.Semedo,Wolverhampton Wanderers,4.5,1.0,DEF,10
+Clyne,Crystal Palace,4.4,1.0,DEF,10
+Kelly,Newcastle United,4.3,1.0,DEF,10
+Krafth,Newcastle United,4.4,1.0,DEF,10
+Stephens,Southampton,4.0,1.0,DEF,10
+Gusto,Chelsea,4.9,1.0,DEF,10
+C.Richards,Crystal Palace,4.4,0.5,DEF,10
+Coufal,West Ham United,4.3,1.0,DEF,10
+Zinchenko,Arsenal,4.8,1.0,DEF,10
+Maatsen,Aston Villa,4.7,1.0,DEF,10
+Van den Berg,Brentford,4.0,1.0,DEF,10
+Igor,Brighton & Hove Albion,4.4,1.0,DEF,10
+Diop,Fulham,4.4,1.0,DEF,10
+Maguire,Manchester United,4.9,0.25,DEF,10
+Todibo,West Ham United,4.3,1.0,DEF,10
+J.Araujo,Bournemouth,4.4,1.0,DEF,10
+Ajer,Brentford,4.4,0.75,DEF,10
+Disasi,Chelsea,4.3,1.0,DEF,10
+Tosin,Chelsea,4.3,1.0,DEF,10
+Walker,Manchester City,5.2,1.0,DEF,10
+Manning,Southampton,4.3,1.0,DEF,10
+Johnson,Ipswich Town,4.0,1.0,DEF,10
+Toti,Wolverhampton Wanderers,4.3,1.0,DEF,10
+Bradley,Liverpool,4.7,1.0,DEF,10
+Morato,Nottingham Forest,4.5,1.0,DEF,10
+Taylor,Southampton,3.9,1.0,DEF,10
+Huijsen,Bournemouth,4.3,1.0,DEF,10
+Estupiñan,Brighton & Hove Albion,5.0,1.0,DEF,10
+Branthwaite,Everton,4.8,1.0,DEF,10
+Woolfenden,Ipswich Town,4.0,1.0,DEF,10
+Vestergaard,Leicester City,4.0,1.0,DEF,10
+S.Bueno,Wolverhampton Wanderers,4.3,1.0,DEF,10
+Kiwior,Arsenal,4.8,1.0,DEF,10
+Nedeljkovic,Aston Villa,4.0,1.0,DEF,10
+Lamptey,Brighton & Hove Albion,4.4,1.0,DEF,10
+Burgess,Ipswich Town,3.9,1.0,DEF,10
+Gomez,Liverpool,4.8,1.0,DEF,10
+Boly,Nottingham Forest,4.3,1.0,DEF,10
+Cresswell,West Ham United,4.0,1.0,DEF,10
+Mosquera,Wolverhampton Wanderers,4.0,0.0,DEF,10
+Bogarde,Aston Villa,4.0,1.0,DEF,10
+James,Chelsea,4.9,1.0,DEF,10
+Ricardo,Leicester City,4.2,1.0,DEF,10
+Aké,Manchester City,5.3,1.0,DEF,10
+Lindelof,Manchester United,4.3,1.0,DEF,10
+Dragusin,Tottenham Hotspur,4.3,1.0,DEF,10
+Spence,Tottenham Hotspur,4.4,0.75,DEF,10
+Doherty,Wolverhampton Wanderers,4.3,1.0,DEF,10
+Tomiyasu,Arsenal,4.8,0.0,DEF,10
+Mee,Brentford,4.3,1.0,DEF,10
+Webster,Brighton & Hove Albion,4.3,0.0,DEF,10
+B.Badiashile,Chelsea,4.3,1.0,DEF,10
+Chadi Riad,Crystal Palace,4.3,0.0,DEF,10
+Coleman,Everton,4.3,1.0,DEF,10
+Castagne,Fulham,4.2,1.0,DEF,10
+J.Cuenca,Fulham,4.4,1.0,DEF,10
+Townsend,Ipswich Town,4.0,1.0,DEF,10
+Quansah,Liverpool,4.0,1.0,DEF,10
+Toffolo,Nottingham Forest,4.3,1.0,DEF,10
+Bree,Southampton,3.9,1.0,DEF,10
+Tierney,Arsenal,4.3,0.0,DEF,10
+Kacurri,Arsenal,4.0,1.0,DEF,10
+Heaven,Arsenal,4.0,1.0,DEF,10
+Nichols,Arsenal,4.0,1.0,DEF,10
+Hause,Aston Villa,4.0,1.0,DEF,10
+Mings,Aston Villa,4.4,1.0,DEF,10
+Swinkels,Aston Villa,4.0,1.0,DEF,10
+Aarons,Bournemouth,4.3,1.0,DEF,10
+Hill,Bournemouth,4.0,1.0,DEF,10
+Henry,Brentford,4.3,0.25,DEF,10
+Hickey,Brentford,4.3,0.0,DEF,10
+Ji-soo,Brentford,3.9,1.0,DEF,10
+Meghoma,Brentford,4.0,1.0,DEF,10
+Samuels,Brighton & Hove Albion,4.0,1.0,DEF,10
+Chilwell,Chelsea,4.7,1.0,DEF,10
+Holding,Crystal Palace,4.3,1.0,DEF,10
+Ward,Crystal Palace,4.3,0.5,DEF,10
+Kporha,Crystal Palace,4.0,1.0,DEF,10
+Patterson,Everton,4.4,1.0,DEF,10
+O'Brien,Everton,4.7,1.0,DEF,10
+Dixon,Everton,4.0,1.0,DEF,10
+Sessegnon,Fulham,4.3,1.0,DEF,10
+Coady,Leicester City,4.0,1.0,DEF,10
+Thomas,Leicester City,3.9,1.0,DEF,10
+Simpson-Pusey,Manchester City,4.0,1.0,DEF,10
+Malacia,Manchester United,4.4,0.25,DEF,10
+Shaw,Manchester United,4.9,0.0,DEF,10
+Yoro,Manchester United,4.3,0.25,DEF,10
+Amass,Manchester United,4.0,1.0,DEF,10
+A.Murphy,Newcastle United,4.0,1.0,DEF,10
+Botman,Newcastle United,4.4,0.0,DEF,10
+Lascelles,Newcastle United,4.5,0.0,DEF,10
+Targett,Newcastle United,4.0,0.25,DEF,10
+Omobamidele,Nottingham Forest,4.3,1.0,DEF,10
+Bella-Kotchap,Southampton,3.9,1.0,DEF,10
+Edwards,Southampton,3.9,1.0,DEF,10
+Larios,Southampton,4.0,1.0,DEF,10
+Wood,Southampton,4.0,1.0,DEF,10
+Davies,Tottenham Hotspur,4.3,1.0,DEF,10
+Reguilón,Tottenham Hotspur,4.3,1.0,DEF,10
+Casey,West Ham United,4.0,1.0,DEF,10
+Pedro Lima,Wolverhampton Wanderers,4.0,1.0,DEF,10
+Meupiyou,Wolverhampton Wanderers,4.0,0.5,DEF,10
+Pond,Wolverhampton Wanderers,4.0,1.0,DEF,10
+H.Clarke,Ipswich Town,4.0,1.0,DEF,10
+M.Salah,Liverpool,12.7,1.0,MID,10
+Palmer,Chelsea,11.0,1.0,MID,10
+Mbeumo,Brentford,7.8,1.0,MID,10
+Saka,Arsenal,10.1,1.0,MID,10
+Luis Díaz,Liverpool,7.8,1.0,MID,10
+McNeil,Everton,5.8,1.0,MID,10
+Bowen,West Ham United,7.5,1.0,MID,10
+Madueke,Chelsea,6.5,1.0,MID,10
+Maddison,Tottenham Hotspur,7.6,1.0,MID,10
+Semenyo,Bournemouth,5.6,1.0,MID,10
+Kovačić,Manchester City,5.6,1.0,MID,10
+Barnes,Newcastle United,6.4,1.0,MID,10
+Smith Rowe,Fulham,5.7,1.0,MID,10
+Son,Tottenham Hotspur,9.9,0.75,MID,10
+Iwobi,Fulham,5.5,1.0,MID,10
+Martinelli,Arsenal,7.0,1.0,MID,10
+Johnson,Tottenham Hotspur,6.7,1.0,MID,10
+Georginio,Brighton & Hove Albion,5.6,1.0,MID,10
+Buonanotte,Leicester City,5.1,1.0,MID,10
+Gordon,Newcastle United,7.2,1.0,MID,10
+Hudson-Odoi,Nottingham Forest,5.4,1.0,MID,10
+Mitoma,Brighton & Hove Albion,6.5,1.0,MID,10
+Rogers,Aston Villa,5.4,1.0,MID,10
+Diogo J.,Liverpool,7.3,0.0,MID,10
+Kulusevski,Tottenham Hotspur,6.3,1.0,MID,10
+Adama,Fulham,5.1,1.0,MID,10
+Tavernier,Bournemouth,5.5,1.0,MID,10
+Bernardo,Manchester City,6.5,1.0,MID,10
+Garnacho,Manchester United,6.3,1.0,MID,10
+Tielemans,Aston Villa,5.5,1.0,MID,10
+Cook,Bournemouth,5.0,1.0,MID,10
+Eze,Crystal Palace,6.7,0.0,MID,10
+Trossard,Arsenal,6.9,1.0,MID,10
+Thomas,Arsenal,5.0,1.0,MID,10
+Damsgaard,Brentford,5.0,1.0,MID,10
+Mavididi,Leicester City,5.3,1.0,MID,10
+Ndidi,Leicester City,5.0,1.0,MID,10
+Yates,Nottingham Forest,4.9,1.0,MID,10
+Souček,West Ham United,5.0,1.0,MID,10
+Kluivert,Bournemouth,5.3,1.0,MID,10
+Morsy,Ipswich Town,4.9,1.0,MID,10
+Mario Jr.,Wolverhampton Wanderers,5.0,0.75,MID,10
+Onana,Aston Villa,5.0,1.0,MID,10
+Baleba,Brighton & Hove Albion,5.0,1.0,MID,10
+Hinshelwood,Brighton & Hove Albion,5.0,1.0,MID,10
+Rashford,Manchester United,6.9,1.0,MID,10
+Anderson,Nottingham Forest,5.0,1.0,MID,10
+Andreas,Fulham,5.3,1.0,MID,10
+Szoboszlai,Liverpool,6.4,1.0,MID,10
+Sávio,Manchester City,6.5,1.0,MID,10
+Bruno G.,Newcastle United,6.2,1.0,MID,10
+Joelinton,Newcastle United,6.0,1.0,MID,10
+L.Paquetá,West Ham United,5.9,1.0,MID,10
+Szmodics,Ipswich Town,5.8,1.0,MID,10
+Jones,Liverpool,5.3,1.0,MID,10
+Janelt,Brentford,4.9,1.0,MID,10
+Lewis-Potter,Brentford,5.0,1.0,MID,10
+Caicedo,Chelsea,4.9,1.0,MID,10
+A.Fatawu,Leicester City,5.4,1.0,MID,10
+Gravenberch,Liverpool,5.0,1.0,MID,10
+B.Fernandes,Manchester United,8.2,1.0,MID,10
+Bissouma,Tottenham Hotspur,4.9,1.0,MID,10
+Kudus,West Ham United,6.2,0.0,MID,10
+J.Gomes,Wolverhampton Wanderers,4.9,1.0,MID,10
+Christie,Bournemouth,4.9,1.0,MID,10
+O.Dango,Bournemouth,5.0,0.25,MID,10
+J.Ayew,Leicester City,5.2,1.0,MID,10
+Doku,Manchester City,6.3,1.0,MID,10
+Bellegarde,Wolverhampton Wanderers,5.0,1.0,MID,10
+Minteh,Brighton & Hove Albion,5.3,0.75,MID,10
+Harrison,Everton,5.3,1.0,MID,10
+Hutchinson,Ipswich Town,5.2,1.0,MID,10
+Amad,Manchester United,4.9,1.0,MID,10
+Casemiro,Manchester United,4.8,1.0,MID,10
+Aribo,Southampton,4.9,1.0,MID,10
+Carvalho,Brentford,4.8,1.0,MID,10
+Winks,Leicester City,4.5,1.0,MID,10
+Elanga,Nottingham Forest,5.2,1.0,MID,10
+Gibbs-White,Nottingham Forest,6.3,1.0,MID,10
+Dibling,Southampton,4.6,1.0,MID,10
+Ramsey,Aston Villa,5.4,1.0,MID,10
+Sinisterra,Bournemouth,5.0,0.0,MID,10
+Sancho,Chelsea,6.3,1.0,MID,10
+J.Murphy,Newcastle United,5.1,0.75,MID,10
+Bailey,Aston Villa,6.3,1.0,MID,10
+De Bruyne,Manchester City,9.4,1.0,MID,10
+Gündogan,Manchester City,6.5,1.0,MID,10
+M.Fernandes,Southampton,5.0,1.0,MID,10
+Rice,Arsenal,6.3,1.0,MID,10
+Nørgaard,Brentford,4.8,1.0,MID,10
+Schade,Brentford,5.2,1.0,MID,10
+Gana,Everton,4.9,1.0,MID,10
+Mac Allister,Liverpool,6.2,1.0,MID,10
+Downes,Southampton,4.8,1.0,MID,10
+I.Sarr,Crystal Palace,5.7,1.0,MID,10
+A.Doucoure,Everton,5.2,0.75,MID,10
+Matheus N.,Manchester City,4.9,1.0,MID,10
+G.Rodríguez,West Ham United,4.9,1.0,MID,10
+Barkley,Aston Villa,5.2,0.0,MID,10
+Adingra,Brighton & Hove Albion,5.3,1.0,MID,10
+Kamada,Crystal Palace,5.1,1.0,MID,10
+Wharton,Crystal Palace,4.8,0.0,MID,10
+Nelson,Fulham,5.0,1.0,MID,10
+Chaplin,Ipswich Town,5.2,1.0,MID,10
+Grealish,Manchester City,6.4,0.0,MID,10
+P.M.Sarr,Tottenham Hotspur,4.8,1.0,MID,10
+Summerville,West Ham United,5.7,1.0,MID,10
+Ayari,Brighton & Hove Albion,5.0,1.0,MID,10
+Enzo,Chelsea,4.8,1.0,MID,10
+Nkunku,Chelsea,5.9,1.0,MID,10
+Neto,Chelsea,6.2,1.0,MID,10
+Foden,Manchester City,9.3,1.0,MID,10
+J.Clarke,Ipswich Town,5.5,1.0,MID,10
+Eriksen,Manchester United,5.4,0.75,MID,10
+Mainoo,Manchester United,5.2,0.25,MID,10
+Longstaff,Newcastle United,4.7,1.0,MID,10
+Werner,Tottenham Hotspur,6.2,0.75,MID,10
+Doyle,Wolverhampton Wanderers,4.8,1.0,MID,10
+Merino,Arsenal,6.0,1.0,MID,10
+McGinn,Aston Villa,5.2,1.0,MID,10
+Wieffer,Brighton & Hove Albion,4.8,1.0,MID,10
+Willock,Newcastle United,4.8,1.0,MID,10
+Scott,Bournemouth,4.8,0.0,MID,10
+Lukić,Fulham,4.9,0.0,MID,10
+Phillips,Ipswich Town,4.9,0.0,MID,10
+Jota Silva,Nottingham Forest,5.9,1.0,MID,10
+Sosa,Nottingham Forest,5.5,1.0,MID,10
+Bentancur,Tottenham Hotspur,5.0,1.0,MID,10
+Jensen,Brentford,5.3,1.0,MID,10
+Mangala,Everton,5.0,1.0,MID,10
+Berge,Fulham,5.0,1.0,MID,10
+Burns,Ipswich Town,4.9,1.0,MID,10
+Tonali,Newcastle United,5.5,1.0,MID,10
+Dominguez,Nottingham Forest,4.8,1.0,MID,10
+Lallana,Southampton,5.0,1.0,MID,10
+João Félix,Chelsea,6.1,1.0,MID,10
+Hughes,Crystal Palace,4.9,0.0,MID,10
+Lerma,Crystal Palace,4.8,0.0,MID,10
+Lindstrøm,Everton,5.1,1.0,MID,10
+Skipp,Leicester City,4.9,1.0,MID,10
+Brereton Díaz,Southampton,5.1,1.0,MID,10
+Guedes,Wolverhampton Wanderers,5.3,1.0,MID,10
+Lavia,Chelsea,4.5,1.0,MID,10
+Iroegbunam,Everton,4.5,0.0,MID,10
+De Cordova-Reid,Leicester City,5.2,1.0,MID,10
+André,Wolverhampton Wanderers,5.0,1.0,MID,10
+Ødegaard,Arsenal,8.2,0.5,MID,10
+Enciso,Brighton & Hove Albion,5.4,1.0,MID,10
+C.Doucouré,Crystal Palace,4.9,1.0,MID,10
+Schlupp,Crystal Palace,4.7,1.0,MID,10
+Garner,Everton,5.0,0.0,MID,10
+Ogbene,Ipswich Town,5.0,0.0,MID,10
+El Khannouss,Leicester City,4.9,1.0,MID,10
+Hee Chan,Wolverhampton Wanderers,6.1,0.0,MID,10
+Luongo,Ipswich Town,4.5,1.0,MID,10
+Almirón,Newcastle United,5.6,1.0,MID,10
+Ward-Prowse,Nottingham Forest,6.2,1.0,MID,10
+Smallbone,Southampton,5.0,0.0,MID,10
+Odobert,Tottenham Hotspur,5.3,0.0,MID,10
+Álvarez,West Ham United,5.0,0.0,MID,10
+Nwaneri,Arsenal,4.5,1.0,MID,10
+Yarmoliuk,Brentford,4.4,1.0,MID,10
+Milner,Brighton & Hove Albion,5.0,0.0,MID,10
+Mudryk,Chelsea,6.2,1.0,MID,10
+Renato Veiga,Chelsea,4.5,1.0,MID,10
+Reed,Fulham,4.8,1.0,MID,10
+Cajuste,Ipswich Town,4.5,1.0,MID,10
+Ugochukwu,Southampton,4.5,1.0,MID,10
+Bergvall,Tottenham Hotspur,4.5,1.0,MID,10
+Moore,Tottenham Hotspur,4.5,1.0,MID,10
+R.Gomes,Wolverhampton Wanderers,5.2,1.0,MID,10
+Jorginho,Arsenal,4.8,1.0,MID,10
+Sterling,Arsenal,6.7,0.0,MID,10
+Buendia,Aston Villa,5.3,1.0,MID,10
+Cairney,Fulham,4.8,1.0,MID,10
+Wilson,Fulham,5.2,1.0,MID,10
+Taylor,Ipswich Town,4.8,0.0,MID,10
+McAteer,Leicester City,4.8,1.0,MID,10
+Endo,Liverpool,4.7,1.0,MID,10
+Ugarte,Manchester United,4.9,1.0,MID,10
+Sangaré,Nottingham Forest,4.4,0.0,MID,10
+Gray,Tottenham Hotspur,4.7,1.0,MID,10
+C.Soler,West Ham United,5.0,1.0,MID,10
+Sarabia,Wolverhampton Wanderers,5.1,1.0,MID,10
+Forbs,Wolverhampton Wanderers,5.5,1.0,MID,10
+Jaden,Aston Villa,5.3,1.0,MID,10
+Brooks,Bournemouth,4.9,1.0,MID,10
+Konak,Brentford,4.5,1.0,MID,10
+Gruda,Brighton & Hove Albion,5.4,1.0,MID,10
+Dewsbury-Hall,Chelsea,5.6,1.0,MID,10
+Mount,Manchester United,6.3,0.25,MID,10
+Philip,Bournemouth,4.8,1.0,MID,10
+B.Soumaré,Leicester City,4.4,1.0,MID,10
+Rodrigo,Manchester City,6.3,0.0,MID,10
+Antony,Manchester United,5.7,0.25,MID,10
+Kamaldeen,Southampton,5.0,1.0,MID,10
+Irving,West Ham United,4.8,1.0,MID,10
+Lewis-Skelly,Arsenal,4.5,1.0,MID,10
+Kamara,Aston Villa,5.0,1.0,MID,10
+Adams,Bournemouth,4.9,1.0,MID,10
+Trevitt,Brentford,4.5,1.0,MID,10
+Moder,Brighton & Hove Albion,4.4,1.0,MID,10
+Agbinone,Crystal Palace,4.5,1.0,MID,10
+Armstrong,Everton,4.5,1.0,MID,10
+Choudhury,Leicester City,4.4,0.75,MID,10
+Elliott,Liverpool,5.2,0.0,MID,10
+Chiesa,Liverpool,6.8,0.0,MID,10
+McAtee,Manchester City,4.7,1.0,MID,10
+Collyer,Manchester United,4.5,1.0,MID,10
+Da Silva Moreira,Nottingham Forest,4.5,1.0,MID,10
+Danilo,Nottingham Forest,4.7,0.0,MID,10
+Fraser,Southampton,4.8,0.75,MID,10
+Amo-Ameyaw,Southampton,4.5,1.0,MID,10
+Cornet,Southampton,4.8,1.0,MID,10
+L.Guilherme,West Ham United,4.7,1.0,MID,10
+Oulad M'hand,Arsenal,4.5,1.0,MID,10
+Kabia,Arsenal,4.5,1.0,MID,10
+Young,Aston Villa,4.5,1.0,MID,10
+Brierley,Brentford,4.5,1.0,MID,10
+Dasilva,Brentford,4.8,0.0,MID,10
+G.Nunes,Brentford,4.9,0.0,MID,10
+Yogane,Brentford,4.5,1.0,MID,10
+March,Brighton & Hove Albion,6.5,0.25,MID,10
+Peupion,Brighton & Hove Albion,4.5,1.0,MID,10
+O'Riley,Brighton & Hove Albion,5.5,0.75,MID,10
+Casadei,Chelsea,4.5,1.0,MID,10
+Chukwuemeka,Chelsea,4.8,1.0,MID,10
+Kellyman,Chelsea,4.4,0.0,MID,10
+M.França,Crystal Palace,4.4,0.0,MID,10
+Umeh-Chibueze,Crystal Palace,4.5,1.0,MID,10
+Devenny,Crystal Palace,4.5,1.0,MID,10
+Rodney,Crystal Palace,4.5,1.0,MID,10
+King,Fulham,4.5,1.0,MID,10
+Godo,Fulham,4.5,1.0,MID,10
+Broadhead,Ipswich Town,4.9,1.0,MID,10
+Golding,Leicester City,4.4,1.0,MID,10
+Alves,Leicester City,4.5,1.0,MID,10
+McConnell,Liverpool,4.4,1.0,MID,10
+Morton,Liverpool,4.4,1.0,MID,10
+Bobb,Manchester City,4.7,0.0,MID,10
+O’Reilly,Manchester City,5.0,1.0,MID,10
+Wright,Manchester City,4.5,1.0,MID,10
+Fletcher,Manchester United,4.5,1.0,MID,10
+Hayden,Newcastle United,4.5,1.0,MID,10
+Kuol,Newcastle United,4.5,1.0,MID,10
+Miley,Newcastle United,5.0,1.0,MID,10
+B.Traore,Wolverhampton Wanderers,4.8,0.0,MID,10
+Cundle,Wolverhampton Wanderers,4.5,1.0,MID,10
+Gonzalez,Wolverhampton Wanderers,4.5,0.0,MID,10
+Haaland,Manchester City,15.3,1.0,FWD,10
+Wood,Nottingham Forest,6.5,1.0,FWD,10
+Welbeck,Brighton & Hove Albion,5.9,1.0,FWD,10
+N.Jackson,Chelsea,7.9,1.0,FWD,10
+Watkins,Aston Villa,9.1,1.0,FWD,10
+Cunha,Wolverhampton Wanderers,6.6,1.0,FWD,10
+Havertz,Arsenal,8.1,1.0,FWD,10
+Vardy,Leicester City,5.7,1.0,FWD,10
+Strand Larsen,Wolverhampton Wanderers,5.5,1.0,FWD,10
+Raúl,Fulham,5.8,1.0,FWD,10
+Delap,Ipswich Town,5.7,1.0,FWD,10
+Wissa,Brentford,6.0,1.0,FWD,10
+Evanilson,Bournemouth,5.9,1.0,FWD,10
+Isak,Newcastle United,8.3,1.0,FWD,10
+Antonio,West Ham United,5.4,1.0,FWD,10
+Mateta,Crystal Palace,7.3,1.0,FWD,10
+Calvert-Lewin,Everton,5.9,1.0,FWD,10
+Ndiaye,Everton,5.4,1.0,FWD,10
+Duran,Aston Villa,6.1,1.0,FWD,10
+Archer,Southampton,5.0,1.0,FWD,10
+Solanke,Tottenham Hotspur,7.6,1.0,FWD,10
+Gakpo,Liverpool,7.1,1.0,FWD,10
+Zirkzee,Manchester United,6.7,1.0,FWD,10
+João Pedro,Brighton & Hove Albion,5.4,1.0,FWD,10
+Muniz,Fulham,5.6,1.0,FWD,10
+Ings,West Ham United,5.0,1.0,FWD,10
+Hirst,Ipswich Town,5.4,1.0,FWD,10
+Darwin,Liverpool,7.1,1.0,FWD,10
+Armstrong,Southampton,5.1,1.0,FWD,10
+Højlund,Manchester United,6.9,1.0,FWD,10
+Ferguson,Brighton & Hove Albion,5.5,1.0,FWD,10
+Nketiah,Crystal Palace,5.9,1.0,FWD,10
+Beto,Everton,5.0,1.0,FWD,10
+Enes Ünal,Bournemouth,5.4,1.0,FWD,10
+Awoniyi,Nottingham Forest,5.6,1.0,FWD,10
+Edouard,Leicester City,5.2,1.0,FWD,10
+G.Jesus,Arsenal,6.8,1.0,FWD,10
+Osula,Newcastle United,5.0,1.0,FWD,10
+Onuachu,Southampton,4.9,1.0,FWD,10
+Stewart,Southampton,4.6,0.0,FWD,10
+Richarlison,Tottenham Hotspur,6.8,1.0,FWD,10
+Füllkrug,West Ham United,6.7,0.0,FWD,10
+Marc Guiu,Chelsea,4.8,1.0,FWD,10
+Al-Hamadi,Ipswich Town,4.8,1.0,FWD,10
+Butler-Oyedeji,Arsenal,4.5,1.0,FWD,10
+Thiago,Brentford,5.9,0.0,FWD,10
+Deivid,Chelsea,5.0,1.0,FWD,10
+Broja,Everton,5.4,0.0,FWD,10
+Y. Chermiti,Everton,4.9,0.0,FWD,10
+Vinicius,Fulham,5.0,1.0,FWD,10
+Daka,Leicester City,4.8,0.75,FWD,10
+Wheatley,Manchester United,4.5,1.0,FWD,10
+Wilson,Newcastle United,6.9,0.0,FWD,10
+Dennis,Nottingham Forest,4.9,1.0,FWD,10
+Lankshear,Tottenham Hotspur,4.5,1.0,FWD,10
+Chiwome,Wolverhampton Wanderers,4.5,1.0,FWD,10
+Kalajdžić,Wolverhampton Wanderers,4.8,0.0,FWD,10
+Ferguson,Brighton & Hove Albion,5.5,1.0,FWD,10
+Nketiah,Crystal Palace,5.9,1.0,FWD,10
+Beto,Everton,5.0,1.0,FWD,10
+Enes Ünal,Bournemouth,5.4,1.0,FWD,10
+Awoniyi,Nottingham Forest,5.6,1.0,FWD,10
+Edouard,Leicester City,5.2,1.0,FWD,10
+G.Jesus,Arsenal,6.8,1.0,FWD,10
+Osula,Newcastle United,5.0,1.0,FWD,10
+Onuachu,Southampton,4.9,1.0,FWD,10
+Stewart,Southampton,4.6,0.0,FWD,10
+Richarlison,Tottenham Hotspur,6.8,1.0,FWD,10
+Füllkrug,West Ham United,6.7,0.0,FWD,10
+Marc Guiu,Chelsea,4.8,1.0,FWD,10
+Al-Hamadi,Ipswich Town,4.8,1.0,FWD,10
+Butler-Oyedeji,Arsenal,4.5,1.0,FWD,10
+Thiago,Brentford,5.9,0.0,FWD,10
+Deivid,Chelsea,5.0,1.0,FWD,10
+Broja,Everton,5.4,0.0,FWD,10
+Y. Chermiti,Everton,4.9,0.0,FWD,10
+Vinicius,Fulham,5.0,1.0,FWD,10
+Daka,Leicester City,4.8,0.75,FWD,10
+Wheatley,Manchester United,4.5,1.0,FWD,10
+Wilson,Newcastle United,6.9,0.0,FWD,10
+Dennis,Nottingham Forest,4.9,1.0,FWD,10
+Lankshear,Tottenham Hotspur,4.5,1.0,FWD,10
+Chiwome,Wolverhampton Wanderers,4.5,1.0,FWD,10
+Kalajdžić,Wolverhampton Wanderers,4.8,0.0,FWD,10

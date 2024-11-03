@@ -36,11 +36,11 @@
     "max": 14.0
   },
   "tot_bps_last_5_h2h": {
-    "min": -19.0,
+    "min": -23.0,
     "max": 234.0
   },
   "tot_bps_last_5": {
-    "min": -22.0,
+    "min": -25.0,
     "max": 317.0
   },
   "tot_clean_sheets_last_5_h2h": {
