@@ -1,16 +1,16 @@
-name,position,element,team,opponent_team,price,condition,xTotPoints
-Dean Henderson,GK,201,Crystal Palace,Wolverhampton Wanderers,4.4,1.0,4.25
-Matz Sels,GK,443,Nottingham Forest,West Ham United,4.6,1.0,4.84
-Joško Gvardiol,DEF,350,Manchester City,Bournemouth,6.2,1.0,5.17
-Ethan Pinnock,DEF,104,Brentford,Fulham,4.5,1.0,5.1
-Ashley Young,DEF,238,Everton,Southampton,4.5,1.0,5.61
-Cole Palmer,MID,182,Chelsea,Manchester United,11.0,1.0,14.42
-Mohamed Salah,MID,328,Liverpool,Brighton & Hove Albion,12.7,1.0,10.71
-Dwight McNeil,MID,230,Everton,Southampton,5.8,1.0,6.44
-James Maddison,MID,494,Tottenham Hotspur,Aston Villa,7.6,1.0,6.45
-Bryan Mbeumo,MID,99,Brentford,Fulham,7.8,1.0,8.94
-Brennan Johnson,MID,491,Tottenham Hotspur,Aston Villa,6.7,1.0,5.76
-Chris Wood,FWD,447,Nottingham Forest,West Ham United,6.5,1.0,6.79
-Cameron Archer,FWD,27,Southampton,Everton,5.0,1.0,4.64
-Danny Welbeck,FWD,148,Brighton & Hove Albion,Liverpool,5.9,1.0,7.18
-Matheus Santos Carneiro Da Cunha,FWD,541,Wolverhampton Wanderers,Crystal Palace,6.6,1.0,5.46
+name,position,element,team,opponent_team,price,condition,xTotPoints,total_points
+Dean Henderson,GK,201,Crystal Palace,Wolverhampton Wanderers,4.4,1.0,4.25,2
+Matz Sels,GK,443,Nottingham Forest,West Ham United,4.6,1.0,4.84,6
+Joško Gvardiol,DEF,350,Manchester City,Bournemouth,6.2,1.0,5.17,7
+Ethan Pinnock,DEF,104,Brentford,Fulham,4.5,1.0,5.1,1
+Ashley Young,DEF,238,Everton,Southampton,4.5,1.0,5.61,2
+Cole Palmer,MID,182,Chelsea,Manchester United,11.0,1.0,14.42,3
+Mohamed Salah,MID,328,Liverpool,Brighton & Hove Albion,12.7,1.0,10.71,9
+Dwight McNeil,MID,230,Everton,Southampton,5.8,1.0,6.44,2
+James Maddison,MID,494,Tottenham Hotspur,Aston Villa,7.6,1.0,6.45,6
+Bryan Mbeumo,MID,99,Brentford,Fulham,7.8,1.0,8.94,3
+Brennan Johnson,MID,491,Tottenham Hotspur,Aston Villa,6.7,1.0,5.76,8
+Chris Wood,FWD,447,Nottingham Forest,West Ham United,6.5,1.0,6.79,7
+Cameron Archer,FWD,27,Southampton,Everton,5.0,1.0,4.64,2
+Danny Welbeck,FWD,148,Brighton & Hove Albion,Liverpool,5.9,1.0,7.18,5
+Matheus Santos Carneiro Da Cunha,FWD,541,Wolverhampton Wanderers,Crystal Palace,6.6,1.0,5.46,6

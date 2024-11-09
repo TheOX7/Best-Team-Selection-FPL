@@ -1,16 +1,16 @@
-name,position,team,opponent_team,price,condition,xTotPoints
-Jordan Pickford,GK,Everton,Southampton,4.9,1.0,5.11
-Matz Sels,GK,Nottingham Forest,West Ham United,4.6,1.0,5.39
-Joško Gvardiol,DEF,Manchester City,Bournemouth,6.2,1.0,5.98
-James Justin,DEF,Leicester City,Ipswich Town,4.6,1.0,4.95
-Ashley Young,DEF,Everton,Southampton,4.5,1.0,5.66
-Cole Palmer,MID,Chelsea,Manchester United,11.0,1.0,12.64
-Carlos Henrique Casimiro,MID,Manchester United,Chelsea,4.8,1.0,5.05
-Jarrod Bowen,MID,West Ham United,Nottingham Forest,7.5,1.0,6.88
-Mohamed Salah,MID,Liverpool,Brighton & Hove Albion,12.7,1.0,9.32
-Dwight McNeil,MID,Everton,Southampton,5.8,1.0,7.68
-James Maddison,MID,Tottenham Hotspur,Aston Villa,7.6,1.0,6.22
-Bryan Mbeumo,MID,Brentford,Fulham,7.8,1.0,10.44
-Chris Wood,FWD,Nottingham Forest,West Ham United,6.5,1.0,7.38
-Danny Welbeck,FWD,Brighton & Hove Albion,Liverpool,5.9,1.0,6.64
-Michail Antonio,FWD,West Ham United,Nottingham Forest,5.4,1.0,5.29
+name,position,team,opponent_team,price,condition,xTotPoints,total_points
+Jordan Pickford,GK,Everton,Southampton,4.9,1.0,5.11,2
+Matz Sels,GK,Nottingham Forest,West Ham United,4.6,1.0,5.39,6
+Joško Gvardiol,DEF,Manchester City,Bournemouth,6.2,1.0,5.98,7
+James Justin,DEF,Leicester City,Ipswich Town,4.6,1.0,4.95,0
+Ashley Young,DEF,Everton,Southampton,4.5,1.0,5.66,2
+Cole Palmer,MID,Chelsea,Manchester United,11.0,1.0,12.64,3
+Carlos Henrique Casimiro,MID,Manchester United,Chelsea,4.8,1.0,5.05,1
+Jarrod Bowen,MID,West Ham United,Nottingham Forest,7.5,1.0,6.88,2
+Mohamed Salah,MID,Liverpool,Brighton & Hove Albion,12.7,1.0,9.32,9
+Dwight McNeil,MID,Everton,Southampton,5.8,1.0,7.68,2
+James Maddison,MID,Tottenham Hotspur,Aston Villa,7.6,1.0,6.22,6
+Bryan Mbeumo,MID,Brentford,Fulham,7.8,1.0,10.44,3
+Chris Wood,FWD,Nottingham Forest,West Ham United,6.5,1.0,7.38,7
+Danny Welbeck,FWD,Brighton & Hove Albion,Liverpool,5.9,1.0,6.64,5
+Michail Antonio,FWD,West Ham United,Nottingham Forest,5.4,1.0,5.29,1
