@@ -1,16 +1,16 @@
 name,position,element,team,opponent_team,price,condition,xTotPoints
-Nick Pope,GK,413,Newcastle United,Nottingham Forest,5.0,1.0,4.04
-Jordan Pickford,GK,235,Everton,West Ham United,4.9,1.0,4.36
-Joško Gvardiol,DEF,350,Manchester City,Brighton & Hove Albion,6.3,1.0,6.05
-James Tarkowski,DEF,236,Everton,West Ham United,4.8,1.0,5.18
-Ashley Young,DEF,238,Everton,West Ham United,4.5,1.0,5.57
-João Victor Gomes da Silva,MID,553,Wolverhampton Wanderers,Southampton,4.9,1.0,5.92
-Cole Palmer,MID,182,Chelsea,Arsenal,11.0,0.75,7.51
-Mohamed Salah,MID,328,Liverpool,Aston Villa,12.8,1.0,8.82
-Callum Hudson-Odoi,MID,434,Nottingham Forest,Newcastle United,5.4,1.0,6.74
-Dejan Kulusevski,MID,492,Tottenham Hotspur,Ipswich Town,6.3,1.0,5.45
-Bryan Mbeumo,MID,99,Brentford,Bournemouth,7.9,1.0,7.77
-Chris Wood,FWD,447,Nottingham Forest,Newcastle United,6.6,1.0,9.73
-Dominic Solanke-Mitchell,FWD,82,Tottenham Hotspur,Ipswich Town,7.7,1.0,5.8
-Francisco Evanilson de Lima Barbosa,FWD,617,Bournemouth,Brentford,5.9,1.0,5.98
-Danny Welbeck,FWD,148,Brighton & Hove Albion,Manchester City,5.9,1.0,5.32
+Bernd Leno,GK,248,Fulham,Crystal Palace,5.0,1.0,3.49
+Jordan Pickford,GK,235,Everton,West Ham United,4.9,1.0,4.44
+Marcos Senesi,DEF,79,Bournemouth,Brentford,4.8,1.0,4.87
+Virgil van Dijk,DEF,339,Liverpool,Aston Villa,6.2,1.0,5.46
+Rayan Aït-Nouri,DEF,533,Wolverhampton Wanderers,Southampton,4.7,1.0,4.48
+João Victor Gomes da Silva,MID,553,Wolverhampton Wanderers,Southampton,4.9,1.0,5.96
+Cole Palmer,MID,182,Chelsea,Arsenal,11.0,0.75,7.82
+Mohamed Salah,MID,328,Liverpool,Aston Villa,12.8,1.0,9.24
+Bukayo Saka,MID,17,Arsenal,Chelsea,10.1,1.0,5.89
+Alex Iwobi,MID,247,Fulham,Crystal Palace,5.5,1.0,4.65
+Fábio Freitas Gouveia Carvalho,MID,314,Brentford,Bournemouth,4.8,1.0,4.97
+Bryan Mbeumo,MID,99,Brentford,Bournemouth,7.9,1.0,8.01
+Cameron Archer,FWD,27,Southampton,Wolverhampton Wanderers,5.0,1.0,5.94
+Jørgen Strand Larsen,FWD,566,Wolverhampton Wanderers,Southampton,5.6,1.0,5.2
+Francisco Evanilson de Lima Barbosa,FWD,617,Bournemouth,Brentford,5.9,1.0,5.89
