@@ -1,16 +1,16 @@
-name,position,team,opponent_team,price,condition,xTotPoints
-Bernd Leno,GK,Fulham,Crystal Palace,5.0,1.0,3.92
-Matz Sels,GK,Nottingham Forest,Newcastle United,4.7,1.0,4.8
-Marcos Senesi,DEF,Bournemouth,Brentford,4.8,1.0,9.48
-Joško Gvardiol,DEF,Manchester City,Brighton & Hove Albion,6.3,1.0,6.29
-Ashley Young,DEF,Everton,West Ham United,4.5,1.0,5.3
-João Victor Gomes da Silva,MID,Wolverhampton Wanderers,Southampton,4.9,1.0,5.96
-Cole Palmer,MID,Chelsea,Arsenal,11.0,0.75,7.44
-Mohamed Salah,MID,Liverpool,Aston Villa,12.8,1.0,8.6
-Dejan Kulusevski,MID,Tottenham Hotspur,Ipswich Town,6.3,1.0,5.18
-Bryan Mbeumo,MID,Brentford,Bournemouth,7.9,1.0,7.86
-Chris Wood,FWD,Nottingham Forest,Newcastle United,6.6,1.0,8.55
-Alexander Isak,FWD,Newcastle United,Nottingham Forest,8.4,1.0,5.76
-Cameron Archer,FWD,Southampton,Wolverhampton Wanderers,5.0,1.0,5.27
-Francisco Evanilson de Lima Barbosa,FWD,Bournemouth,Brentford,5.9,1.0,5.97
-Danny Welbeck,FWD,Brighton & Hove Albion,Manchester City,5.9,1.0,5.63
+name,position,team,opponent_team,price,condition,xTotPoints,total_points
+Bernd Leno,GK,Fulham,Crystal Palace,5.0,1.0,3.92,9
+Matz Sels,GK,Nottingham Forest,Newcastle United,4.7,1.0,4.8,2
+Marcos Senesi,DEF,Bournemouth,Brentford,4.8,1.0,9.48,0
+Joško Gvardiol,DEF,Manchester City,Brighton & Hove Albion,6.3,1.0,6.29,1
+Ashley Young,DEF,Everton,West Ham United,4.5,1.0,5.3,5
+João Victor Gomes da Silva,MID,Wolverhampton Wanderers,Southampton,4.9,1.0,5.96,3
+Cole Palmer,MID,Chelsea,Arsenal,10.9,0.75,7.44,2
+Mohamed Salah,MID,Liverpool,Aston Villa,12.9,1.0,8.6,14
+Bryan Mbeumo,MID,Brentford,Bournemouth,7.9,0.75,7.86,5
+Chris Wood,FWD,Nottingham Forest,Newcastle United,6.6,1.0,8.55,2
+Alexander Isak,FWD,Newcastle United,Nottingham Forest,8.5,1.0,5.76,11
+Jamie Vardy,FWD,Leicester City,Manchester United,5.7,0.75,5.15,0
+Cameron Archer,FWD,Southampton,Wolverhampton Wanderers,5.0,1.0,5.27,2
+Francisco Evanilson de Lima Barbosa,FWD,Bournemouth,Brentford,6.0,1.0,5.97,8
+Danny Welbeck,FWD,Brighton & Hove Albion,Manchester City,6.0,1.0,5.63,2
