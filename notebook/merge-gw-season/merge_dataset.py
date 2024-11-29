@@ -1,39 +1,25 @@
 import pandas as pd
-import re
-import os
 pd.set_option('display.max_columns', None)
-
-def clean_name(name):
-    cleaned_name = re.sub(r'_\d+$', '', name)
-    cleaned_name = cleaned_name.replace('_', ' ')
-    return cleaned_name
-
-MAIN_FOLDER = r"D:\GitHub\TheOX7\Best-Team-Selection-FPL"
 
 """2016-17"""
 url = "https://raw.githubusercontent.com/vaastav/Fantasy-Premier-League/master/data/2016-17/gws/merged_gw.csv"
 df_1617 = pd.read_csv(url, encoding='ISO-8859-1')
-df_1617['name'] = df_1617['name'].apply(clean_name)
 
 """2017-18"""
 url = "https://raw.githubusercontent.com/vaastav/Fantasy-Premier-League/master/data/2017-18/gws/merged_gw.csv"
 df_1718 = pd.read_csv(url, encoding='ISO-8859-1')
-df_1718['name'] = df_1718['name'].apply(clean_name)
 
 """2018-19"""
 url = "https://raw.githubusercontent.com/vaastav/Fantasy-Premier-League/master/data/2018-19/gws/merged_gw.csv"
 df_1819 = pd.read_csv(url, encoding='ISO-8859-1')
-df_1819['name'] = df_1819['name'].apply(clean_name)
 
 """2019-20"""
 url = "https://raw.githubusercontent.com/vaastav/Fantasy-Premier-League/master/data/2019-20/gws/merged_gw.csv"
 df_1920 = pd.read_csv(url)
-df_1920['name'] = df_1920['name'].apply(clean_name)
 
 """2020-21"""
 url = "https://raw.githubusercontent.com/vaastav/Fantasy-Premier-League/master/data/2020-21/gws/merged_gw.csv"
 df_2021 = pd.read_csv(url)
-df_2021['name'] = df_2021['name'].apply(clean_name)
 
 """2021-22"""
 url = "https://raw.githubusercontent.com/vaastav/Fantasy-Premier-League/master/data/2021-22/gws/merged_gw.csv"
@@ -74,7 +60,7 @@ for df, season in zip(df_list, season_list):
     df['season'] = f'20{season}'
 
 cols = ['season', 'element', 'assists', 'bonus', 'bps',
-        'clean_sheets', 'creativity', 'element', 'fixture', 'goals_conceded',
+        'clean_sheets', 'creativity', 'fixture', 'goals_conceded',
         'goals_scored', 'ict_index', 'influence', 'xP', 'expected_assists',
         'expected_goal_involvements', 'expected_goals', 'expected_goals_conceded',
         'kickoff_time', 'minutes', 'opponent_team', 'own_goals', 'penalties_missed',
@@ -96,31 +82,32 @@ df = pd.concat([df_1617, df_1718, df_1819, df_1920, df_2021, df_2122, df_2223, d
 
 
 """Change Features Name"""
-FILE_PATH = os.path.join(MAIN_FOLDER, 'data/processed/players_raw_1617_2425.csv')
-players_info = pd.read_csv(FILE_PATH)
+players_info = pd.read_csv(r'data/processed/players_raw_1617_2425.csv')
 
 players_info = players_info[['season', 'id', 'web_name', 'first_name', 'second_name', 'element_type', 'team']]
 players_info = players_info.rename(columns={'id': 'element', 'element_type':'position'})
 
 """Merge Dataset to add 'web_name' feature"""
 
-df = pd.merge(df.loc[:, ~df.columns.duplicated()], players_info, on=['season', 'element'], how='left')
-
+df = pd.merge(df, players_info, on=['season', 'element'], how='left')
 df['name'] = df['first_name'] + " " + df['second_name']
 df = df.drop(['first_name', 'second_name'], axis=1)
 
-cols = ['season', 'element', 'assists', 'bonus', 'bps', 'clean_sheets', 'creativity', 'element', 'fixture', 
-        'goals_conceded', 'goals_scored', 'ict_index', 'influence', 'xP', 'expected_assists', 'expected_goal_involvements', 
-        'expected_goals', 'expected_goals_conceded', 'kickoff_time', 'minutes', 'opponent_team', 'own_goals', 
-        'penalties_missed', 'penalties_saved', 'red_cards', 'saves', 'selected', 'team_a_score', 'team_h_score', 
-        'threat', 'total_points', 'transfers_balance', 'transfers_in', 'transfers_out', 'value', 'was_home', 
-        'yellow_cards', 'GW']
+cols = ['season', 'name', 'web_name', 'position', 'team', 'assists', 'bonus', 'bps',
+        'clean_sheets', 'creativity', 'element', 'fixture', 'goals_conceded',
+        'goals_scored', 'ict_index', 'influence', 'xP', 'expected_assists', 
+        'expected_goal_involvements', 'expected_goals', 'expected_goals_conceded', 
+        'kickoff_time', 'minutes', 'opponent_team', 'own_goals', 'penalties_missed', 
+        'penalties_saved', 'red_cards', 'saves', 'selected', 'team_a_score',
+        'team_h_score', 'threat', 'total_points', 'transfers_balance', 'transfers_in', 
+        'transfers_out', 'value', 'was_home', 'yellow_cards', 'GW']
 
 df = df[cols]
 
 """Mapping Team"""
-FILE_PATH = os.path.join(MAIN_FOLDER, 'data/season/2024-25/teams.csv')
-team_2425 = pd.read_csv(FILE_PATH)
+url_teams = 'https://raw.githubusercontent.com/vaastav/Fantasy-Premier-League/master/data/2024-25/teams.csv'
+# FILE_PATH = os.path.join(MAIN_FOLDER, 'data/season/2024-25/teams.csv')
+team_2425 = pd.read_csv(url_teams)
 team_2425['season'] = '2024-25'
 team_2425 = team_2425[['season', 'id', 'name']]
 team_2425.rename(columns={
@@ -128,6 +115,7 @@ team_2425.rename(columns={
     'name':'team_name',
 }, inplace=True)
 
+# Membaca dataset dari URL
 url_master_team = "https://raw.githubusercontent.com/vaastav/Fantasy-Premier-League/master/data/master_team_list.csv"
 team_id = pd.read_csv(url_master_team)
 team_id = pd.concat([team_id, team_2425]).reset_index(drop=True)
@@ -140,14 +128,14 @@ seasons = ['2016-17', '2017-18', '2018-19', '2019-20', '2020-21', '2021-22', '20
 
 # Membuat mapping untuk setiap musim secara otomatis
 for season in seasons:
-    team_maps[season] = dict(zip(team_id[team_id['season'] == season]['team'],
+    team_maps[season] = dict(zip(team_id[team_id['season'] == season]['team'], 
                                  team_id[team_id['season'] == season]['team_name']))
 
 # Mengganti nilai 'opponent_team' berdasarkan musim
 for season in seasons:
     df.loc[df['season'] == season, 'opponent_team'] = df.loc[df['season'] == season, 'opponent_team'].replace(team_maps[season])
     df.loc[df['season'] == season, 'team'] = df.loc[df['season'] == season, 'team'].replace(team_maps[season])
-
+    
 """Formatting Team Name"""
 
 team_map = {
@@ -167,6 +155,23 @@ df = df.rename({
     'expected_goals_conceded':'xGC',
 }, axis=1)
 
+"""Handling Missing Values"""
+df = df[~df['position'].isna()]
+
+condition = (df['season'] == '2019-20') & (df['GW'] == 29) & (df['team'] == 'Manchester City')
+df.loc[condition, ['team_h_score', 'team_a_score']] = [3, 0]
+
+condition = (df['season'] == '2019-20') & (df['GW'] == 29) & (df['team'] == 'Arsenal')
+df.loc[condition, ['team_h_score', 'team_a_score']] = [3, 0]
+
+# df.loc
+
+for wrong_gw, fixed_gw in zip(range(39, 48), range(30, 39)):
+    df.loc[(df['season'] == '2019-20') & (df['GW'] == wrong_gw), 'GW'] = fixed_gw
+
+df = df[df['team'] != df['opponent_team']]
+df = df.reset_index(drop=True)
+
 """Cleaned Dataset"""
-FILE_PATH = os.path.join(MAIN_FOLDER, 'data/processed/final-dataset.csv')
-df.to_csv(FILE_PATH, index=False)
+print("Dataset has been merged")
+df.to_csv(r'data/processed/final-dataset.csv', index=False)

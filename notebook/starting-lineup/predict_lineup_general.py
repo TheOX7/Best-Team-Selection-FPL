@@ -3,25 +3,21 @@ import pandas as pd
 import json
 import joblib
 import warnings
-import os
 pd.set_option('display.max_columns', None)
 warnings.filterwarnings("ignore")
 
 GW = int(input("Input Gameweek to Predict: "))
-MAIN_FOLDER = r"D:\GitHub\TheOX7\Best-Team-Selection-FPL"
 
 def fpl_selection(gw=GW):
     # Load dataset untuk GW tertentu
-    FILE_PATH = os.path.join(MAIN_FOLDER, f'data/fpl/gw-{gw}/general_updated_features.csv')
-    df = pd.read_csv(FILE_PATH)
+    df = pd.read_csv(rf'data/fpl/gw-{gw}/general_updated_features.csv')
 
     # Fungsi manual untuk scaling Min-Max
     def manual_min_max_scaling(value, min_val, max_val):
         return (value - min_val) / (max_val - min_val)
 
     # Load nilai min dan max dari JSON untuk scaling
-    FILE_PATH = os.path.join(MAIN_FOLDER, f'data/json/general/min_max_values.json')
-    with open(FILE_PATH, 'r') as json_file:
+    with open(rf'data/json/general/min_max_values.json', 'r') as json_file:
         min_max_dict = json.load(json_file)
 
     # Terapkan scaling untuk setiap kolom yang ada di min_max_dict
@@ -40,16 +36,13 @@ def fpl_selection(gw=GW):
     df.drop(['total_points', 'web_name', 'kickoff_time', 'element'], axis=1, inplace=True)
 
     # Load dictionary untuk mapping data yang di-encode
-    FILE_PATH = os.path.join(MAIN_FOLDER, f'data/json/general/encoded_player_names.json')
-    with open(FILE_PATH, 'r') as json_file:
+    with open(rf'data/json/general/encoded_player_names.json', 'r') as json_file:
         player_dict = json.load(json_file)
         
-    FILE_PATH = os.path.join(MAIN_FOLDER, f'data/json/general/encoded_position.json')
-    with open(FILE_PATH, 'r') as json_file:
+    with open(rf'data/json/general/encoded_position.json', 'r') as json_file:
         position_dict = json.load(json_file)
         
-    FILE_PATH = os.path.join(MAIN_FOLDER, f'data/json/general/encoded_team_name.json')
-    with open(FILE_PATH, 'r') as json_file:
+    with open(rf'data/json/general/encoded_team_name.json', 'r') as json_file:
         team_dict = json.load(json_file)
 
     # Map data yang di-encode
@@ -59,8 +52,7 @@ def fpl_selection(gw=GW):
     df['opponent_team'] = df['opponent_team'].map(team_dict)
 
     # Load model machine learning (Random Forest atau model lain yang sudah dilatih)
-    FILE_PATH = os.path.join(MAIN_FOLDER, f'model/model_general.joblib')
-    model = joblib.load(FILE_PATH)
+    model = joblib.load(f'model/model_general.joblib')
 
     # Prediksi total points menggunakan model
     df['xTotPoints'] = model.predict(df)
@@ -96,8 +88,7 @@ def fpl_selection(gw=GW):
     df['opponent_team'] = df['opponent_team'].map(inverse_team_dict)
 
     # Load data harga pemain untuk GW tertentu
-    FILE_PATH = os.path.join(MAIN_FOLDER, f'data/fpl/price/fpl-price-gw-{gw}.csv')
-    fpl_price_df_gw = pd.read_csv(FILE_PATH)
+    fpl_price_df_gw = pd.read_csv(rf'data/fpl/price/fpl-price-gw-{gw}.csv')
     fpl_price_df_gw.rename({'name': 'web_name'}, axis=1, inplace=True)
 
     # Gabungkan data dengan harga pemain
@@ -176,11 +167,8 @@ def rec_lineup(gw):
         df = df[['name', 'position', 'team', 'opponent_team', 'price', 'condition', 'xTotPoints']]
         pulp_df = pulp_df[['name', 'position', 'team', 'opponent_team', 'price', 'condition', 'xTotPoints']]
 
-    FILE_PATH = os.path.join(MAIN_FOLDER, f'data/pulp/gw-{gw}/general/rec_lineup.csv')
-    df.to_csv(FILE_PATH, index=False)
-    
-    FILE_PATH = os.path.join(MAIN_FOLDER, f'data/pulp/gw-{gw}/general/not_rec_lineup.csv')
-    pulp_df.to_csv(FILE_PATH, index=False)
+    df.to_csv(rf'data/pulp/gw-{gw}/general/rec_lineup.csv', index=False)
+    pulp_df.to_csv(rf'data/pulp/gw-{gw}/general/not_rec_lineup.csv', index=False)
     
     return pulp_df, df
 

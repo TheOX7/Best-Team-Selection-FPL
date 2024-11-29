@@ -1,4 +1,3 @@
-import os
 import pandas as pd
 import warnings
 import json
@@ -13,17 +12,13 @@ warnings.filterwarnings('ignore')
 
 GW_TO_PRED = int(input("Input Gameweek to Predict: "))
 GW_BEFORE = GW_TO_PRED-1
-CURRENT_GW = int(input("Input Current Gameweek: "))
+# CURRENT_GW = int(input("Input Current Gameweek: "))
 
 position_ = 'GK'
 position = position_.lower()
 
-# Main folder
-MAIN_FOLDER = r"D:\GitHub\TheOX7\Best-Team-Selection-FPL"
-
-# Relative path to your CSV file
-FILE_PATH = os.path.join(MAIN_FOLDER, 'data/processed/final-dataset.csv')
-df = pd.read_csv(FILE_PATH)
+# Path to main dataset
+df = pd.read_csv(r'data/processed/final-dataset.csv')
 
 # Kondisi khusus GW_TO_PRED = 1
 if GW_TO_PRED == 1:
@@ -36,8 +31,8 @@ else:
 
 print(f" -- Dataset Loaded -- \n")
 
-# df = df[~df['season'].isin(['2016-17', '2017-18', '2018-19', '2020-21', '2021-22'])]
-df = df[~((df['season'] == '2024-25') & (df['GW'].between(GW_TO_PRED, CURRENT_GW)))]
+# df = df[~((df['season'] == '2024-25') & (df['GW'].between(GW_TO_PRED, CURRENT_GW)))]
+df = df[~((df['season'] == '2024-25') & (df['GW'] == GW_TO_PRED))]
 df = df[df['position'] == position_].reset_index(drop=True)
 df = df.sort_values(by=['season', 'GW']).reset_index(drop=True)
 
@@ -45,11 +40,10 @@ df = df.sort_values(by=['season', 'GW']).reset_index(drop=True)
 
 ##### Add Row Dataset for GW to Predict
 """
-# File Path
-FILE_PATH = os.path.join(MAIN_FOLDER, 'data/fixtures/fixtures-2024-25.csv')
-fixtures_2425_df = pd.read_csv(FILE_PATH)
 
-# Filter data untuk season 2024/25 dan GW == GW_BEFORE (GW 5)
+fixtures_2425_df = pd.read_csv(r'data/fixtures/fixtures-2024-25.csv')
+
+# Filter data untuk season 2024\25 dan GW == GW_BEFORE (GW 5)
 gw_before_df = df[(df['season'] == '2024-25') & (df['GW'] == GW_BEFORE)].copy()
 
 # Tidak mengubah nilai fitur menjadi nol kali ini.
@@ -244,8 +238,7 @@ print(f" -- Feature Engineering (Success) -- \n")
 def save_gw_data(df, gw=SAVE_GW_DATA):
     df = df[(df['season'] == '2024-25') & (df['GW'] == gw)]
     df = df.drop(['season', 'GW'], axis=1)
-    FILE_PATH = os.path.join(MAIN_FOLDER, f'data/fpl/gw-{gw}/{position}_updated_features.csv')
-    df.reset_index(drop=True).to_csv(FILE_PATH, index=False)
+    df.reset_index(drop=True).to_csv(rf'data/fpl/gw-{gw}/{position}_updated_features.csv', index=False)
 
 """Feature Selection"""
 other_cols = ['fixture', 'transfers_balance', 'transfers_in', 'transfers_out',
@@ -273,10 +266,8 @@ for col in cols:
         "max": float(df[col].max())
     }
 
-FILE_PATH = os.path.join(MAIN_FOLDER, f'data/json/{position}/min_max_values.json')
-
 # Simpan dictionary sebagai JSON file
-with open(FILE_PATH, 'w') as json_file:
+with open(rf'data/json/{position}/min_max_values.json', 'w') as json_file:
     json.dump(min_max_dict, json_file, indent=2)
 
 cols = df.select_dtypes(exclude=['object']).columns.tolist()
@@ -304,16 +295,13 @@ position_dict = {position: i for i, position in enumerate(le_position.classes_.t
 team_dict = {team: i for i, team in enumerate(le_team.classes_.tolist())}
 
 
-FILE_PATH = os.path.join(MAIN_FOLDER, f'data/json/{position}/encoded_player_names.json')
-with open(FILE_PATH, 'w') as json_file:
+with open(rf'data/json/{position}/encoded_player_names.json', 'w') as json_file:
     json.dump(player_dict, json_file, indent=2)
 
-FILE_PATH = os.path.join(MAIN_FOLDER, f'data/json/{position}/encoded_position.json')
-with open(FILE_PATH, 'w') as json_file:
+with open(rf'data/json/{position}/encoded_position.json', 'w') as json_file:
     json.dump(position_dict, json_file, indent=2)
 
-FILE_PATH = os.path.join(MAIN_FOLDER, f'data/json/{position}/encoded_team_name.json')
-with open(FILE_PATH, 'w') as json_file:
+with open(rf'data/json/{position}/encoded_team_name.json', 'w') as json_file:
     json.dump(team_dict, json_file, indent=2)
 
 print(f" -- Label Encoding (Success) -- \n")
@@ -333,6 +321,5 @@ print(f" -- Model Fitted -- \n")
 
 """Dumping Model"""
 
-FILE_PATH = os.path.join(MAIN_FOLDER, f'model/model_{position}.joblib')
-joblib.dump(rf, FILE_PATH)
+joblib.dump(rf, rf'model/model_{position}.joblib')
 print(f" -- Model Dumped -- \n")
