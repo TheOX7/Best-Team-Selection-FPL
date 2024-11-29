@@ -1,16 +1,16 @@
-name,position,element,team,opponent_team,price,condition,xTotPoints
-José Malheiro de Sá,GK,554,Wolverhampton Wanderers,Fulham,4.3,1.0,4.49
-Jordan Pickford,GK,235,Everton,Brentford,4.9,1.0,7.48
-Marcos Senesi,DEF,79,Bournemouth,Brighton & Hove Albion,4.8,1.0,5.36
-Virgil van Dijk,DEF,339,Liverpool,Southampton,6.3,1.0,5.62
-James Tarkowski,DEF,236,Everton,Brentford,4.8,1.0,5.57
-Ashley Young,DEF,238,Everton,Brentford,4.5,1.0,5.15
-Bruno Borges Fernandes,MID,366,Manchester United,Ipswich Town,8.4,1.0,6.24
-Mohamed Salah,MID,328,Liverpool,Southampton,12.9,1.0,8.72
-Vitaly Janelt,MID,94,Brentford,Everton,4.9,1.0,5.62
-Alex Iwobi,MID,247,Fulham,Wolverhampton Wanderers,5.6,1.0,5.75
-Justin Kluivert,MID,71,Bournemouth,Brighton & Hove Albion,5.3,1.0,5.4
-Alexander Isak,FWD,401,Newcastle United,West Ham United,8.5,1.0,5.52
-Jørgen Strand Larsen,FWD,566,Wolverhampton Wanderers,Fulham,5.6,1.0,5.4
-Francisco Evanilson de Lima Barbosa,FWD,617,Bournemouth,Brighton & Hove Albion,6.0,1.0,5.72
-Matheus Santos Carneiro Da Cunha,FWD,541,Wolverhampton Wanderers,Fulham,6.8,1.0,8.31
+name,position,element,team,opponent_team,price,condition,xTotPoints,total_points
+Emiliano Martínez Romero,GK,47,Aston Villa,Crystal Palace,5.0,1.0,4.25,2
+Jordan Pickford,GK,235,Everton,Brentford,4.9,1.0,7.94,6
+Virgil van Dijk,DEF,339,Liverpool,Southampton,6.3,1.0,4.91,1
+James Tarkowski,DEF,236,Everton,Brentford,4.8,1.0,5.41,7
+Ashley Young,DEF,238,Everton,Brentford,4.5,1.0,5.11,9
+Bruno Borges Fernandes,MID,366,Manchester United,Ipswich Town,8.4,1.0,7.42,2
+Mohamed Salah,MID,328,Liverpool,Southampton,12.9,1.0,8.43,13
+Bukayo Saka,MID,17,Arsenal,Nottingham Forest,10.1,0.75,5.18,13
+Vitaly Janelt,MID,94,Brentford,Everton,4.9,1.0,5.02,3
+Alex Iwobi,MID,247,Fulham,Wolverhampton Wanderers,5.6,1.0,6.34,7
+Justin Kluivert,MID,71,Bournemouth,Brighton & Hove Albion,5.3,1.0,4.98,2
+Alexander Isak,FWD,401,Newcastle United,West Ham United,8.5,1.0,5.32,2
+Jørgen Strand Larsen,FWD,566,Wolverhampton Wanderers,Fulham,5.6,1.0,5.33,5
+Francisco Evanilson de Lima Barbosa,FWD,617,Bournemouth,Brighton & Hove Albion,6.0,1.0,5.73,2
+Matheus Santos Carneiro Da Cunha,FWD,541,Wolverhampton Wanderers,Fulham,6.8,1.0,8.78,16

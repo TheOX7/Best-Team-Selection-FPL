@@ -1,16 +1,16 @@
-name,position,team,opponent_team,price,condition,xTotPoints
-Emiliano Martínez Romero,GK,Aston Villa,Crystal Palace,5.0,1.0,3.8
-Jordan Pickford,GK,Everton,Brentford,4.9,1.0,6.89
-Marcos Senesi,DEF,Bournemouth,Brighton & Hove Albion,4.8,1.0,6.29
-Joško Gvardiol,DEF,Manchester City,Tottenham Hotspur,6.3,1.0,5.6
-Trevoh Chalobah,DEF,Crystal Palace,Aston Villa,4.4,1.0,5.73
-Ashley Young,DEF,Everton,Brentford,4.5,1.0,5.32
-Bruno Borges Fernandes,MID,Manchester United,Ipswich Town,8.4,1.0,7.09
-Mohamed Salah,MID,Liverpool,Southampton,12.9,1.0,7.95
-Alex Iwobi,MID,Fulham,Wolverhampton Wanderers,5.6,1.0,6.17
-Alexander Isak,FWD,Newcastle United,West Ham United,8.5,1.0,5.41
-Jørgen Strand Larsen,FWD,Wolverhampton Wanderers,Fulham,5.6,1.0,5.2
-Francisco Evanilson de Lima Barbosa,FWD,Bournemouth,Brighton & Hove Albion,6.0,1.0,5.71
-Danny Welbeck,FWD,Brighton & Hove Albion,Bournemouth,6.0,1.0,5.4
-Jean-Philippe Mateta,FWD,Crystal Palace,Aston Villa,7.3,1.0,5.83
-Matheus Santos Carneiro Da Cunha,FWD,Wolverhampton Wanderers,Fulham,6.8,1.0,7.68
+name,position,team,opponent_team,price,condition,xTotPoints,total_points
+André Onana,GK,Manchester United,Ipswich Town,5.1,1.0,3.97,3
+Jordan Pickford,GK,Everton,Brentford,4.9,1.0,7.65,6
+Marcos Senesi,DEF,Bournemouth,Brighton & Hove Albion,4.8,1.0,5.18,1
+Joško Gvardiol,DEF,Manchester City,Tottenham Hotspur,6.3,1.0,5.5,0
+James Tarkowski,DEF,Everton,Brentford,4.8,1.0,5.83,7
+Ashley Young,DEF,Everton,Brentford,4.5,1.0,5.14,9
+Bruno Borges Fernandes,MID,Manchester United,Ipswich Town,8.4,1.0,7.18,2
+Mohamed Salah,MID,Liverpool,Southampton,12.9,1.0,8.35,13
+Vitaly Janelt,MID,Brentford,Everton,4.9,1.0,5.31,3
+Alex Iwobi,MID,Fulham,Wolverhampton Wanderers,5.6,1.0,6.36,7
+Justin Kluivert,MID,Bournemouth,Brighton & Hove Albion,5.3,1.0,5.23,2
+Bryan Mbeumo,MID,Brentford,Everton,7.9,0.75,5.63,3
+Francisco Evanilson de Lima Barbosa,FWD,Bournemouth,Brighton & Hove Albion,6.0,1.0,5.65,2
+Danny Welbeck,FWD,Brighton & Hove Albion,Bournemouth,6.0,1.0,5.54,2
+Matheus Santos Carneiro Da Cunha,FWD,Wolverhampton Wanderers,Fulham,6.8,1.0,7.57,16
