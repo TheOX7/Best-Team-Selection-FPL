@@ -1,16 +1,16 @@
-name,position,team,opponent_team,price,condition,xTotPoints
-André Onana,GK,Manchester United,Everton,5.1,1.0,5.52
-Jordan Pickford,GK,Everton,Manchester United,4.9,1.0,4.89
-Joško Gvardiol,DEF,Manchester City,Liverpool,6.3,1.0,4.57
-James Tarkowski,DEF,Everton,Manchester United,4.8,1.0,4.43
-Ashley Young,DEF,Everton,Manchester United,4.5,1.0,4.76
-João Victor Gomes da Silva,MID,Wolverhampton Wanderers,Bournemouth,4.9,1.0,5.69
-Bruno Borges Fernandes,MID,Manchester United,Everton,8.5,1.0,7.62
-Mohamed Salah,MID,Liverpool,Manchester City,13.1,1.0,8.73
-Alejandro Garnacho,MID,Manchester United,Everton,6.4,1.0,5.82
-Bryan Mbeumo,MID,Brentford,Leicester City,7.9,1.0,5.01
-Alexander Isak,FWD,Newcastle United,Crystal Palace,8.5,1.0,5.26
-Yoane Wissa,FWD,Brentford,Leicester City,6.1,1.0,5.78
-Francisco Evanilson de Lima Barbosa,FWD,Bournemouth,Wolverhampton Wanderers,6.0,1.0,5.76
-Danny Welbeck,FWD,Brighton & Hove Albion,Southampton,6.0,1.0,5.56
-Matheus Santos Carneiro Da Cunha,FWD,Wolverhampton Wanderers,Bournemouth,7.0,1.0,9.36
+name,position,team,opponent_team,price,condition,xTotPoints,total_points
+André Onana,GK,Manchester United,Everton,5.1,1.0,5.48,6
+Jordan Pickford,GK,Everton,Manchester United,4.9,1.0,4.66,0
+Milos Kerkez,DEF,Bournemouth,Wolverhampton Wanderers,4.4,1.0,3.94,7
+Virgil van Dijk,DEF,Liverpool,Manchester City,6.3,1.0,4.26,6
+Ashley Young,DEF,Everton,Manchester United,4.5,1.0,4.88,-1
+João Victor Gomes da Silva,MID,Wolverhampton Wanderers,Bournemouth,4.9,1.0,5.76,2
+Bruno Borges Fernandes,MID,Manchester United,Everton,8.5,1.0,7.79,9
+Mohamed Salah,MID,Liverpool,Manchester City,13.1,1.0,10.76,13
+Alejandro Garnacho,MID,Manchester United,Everton,6.4,1.0,5.31,1
+Alexander Isak,FWD,Newcastle United,Crystal Palace,8.5,1.0,5.76,1
+Yoane Wissa,FWD,Brentford,Leicester City,6.1,1.0,5.88,8
+Nicolas Jackson,FWD,Chelsea,Aston Villa,8.0,1.0,5.47,6
+Francisco Evanilson de Lima Barbosa,FWD,Bournemouth,Wolverhampton Wanderers,6.0,1.0,5.82,12
+Danny Welbeck,FWD,Brighton & Hove Albion,Southampton,6.0,1.0,6.92,2
+Matheus Santos Carneiro Da Cunha,FWD,Wolverhampton Wanderers,Bournemouth,7.0,1.0,9.69,2

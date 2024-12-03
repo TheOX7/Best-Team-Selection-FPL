@@ -1,16 +1,16 @@
-name,position,element,team,opponent_team,price,condition,xTotPoints
-André Onana,GK,383,Manchester United,Everton,5.1,1.0,4.64
-Dean Henderson,GK,201,Crystal Palace,Newcastle United,4.4,1.0,4.21
-Milos Kerkez,DEF,70,Bournemouth,Wolverhampton Wanderers,4.4,1.0,3.72
-Virgil van Dijk,DEF,339,Liverpool,Manchester City,6.3,1.0,3.73
-Ashley Young,DEF,238,Everton,Manchester United,4.5,1.0,4.54
-João Victor Gomes da Silva,MID,553,Wolverhampton Wanderers,Bournemouth,4.9,1.0,4.77
-Bruno Borges Fernandes,MID,366,Manchester United,Everton,8.5,1.0,7.85
-Mohamed Salah,MID,328,Liverpool,Manchester City,13.1,1.0,10.33
-Alejandro Garnacho,MID,372,Manchester United,Everton,6.4,1.0,4.57
-Bryan Mbeumo,MID,99,Brentford,Leicester City,7.9,1.0,4.86
-Yoane Wissa,FWD,110,Brentford,Leicester City,6.1,1.0,5.35
-Nicolas Jackson,FWD,180,Chelsea,Aston Villa,8.0,1.0,4.96
-Jørgen Strand Larsen,FWD,566,Wolverhampton Wanderers,Bournemouth,5.6,1.0,5.0
-Francisco Evanilson de Lima Barbosa,FWD,617,Bournemouth,Wolverhampton Wanderers,6.0,1.0,5.81
-Matheus Santos Carneiro Da Cunha,FWD,541,Wolverhampton Wanderers,Bournemouth,7.0,1.0,9.63
+name,position,element,team,opponent_team,price,condition,xTotPoints,total_points
+André Onana,GK,383,Manchester United,Everton,5.1,1.0,4.36,6
+Dean Henderson,GK,201,Crystal Palace,Newcastle United,4.4,1.0,4.55,2
+Joško Gvardiol,DEF,350,Manchester City,Liverpool,6.3,1.0,3.95,0
+Virgil van Dijk,DEF,339,Liverpool,Manchester City,6.3,1.0,3.87,6
+James Tarkowski,DEF,236,Everton,Manchester United,4.8,1.0,3.81,0
+Bruno Borges Fernandes,MID,366,Manchester United,Everton,8.5,1.0,7.51,9
+Mohamed Salah,MID,328,Liverpool,Manchester City,13.1,1.0,11.04,13
+Alejandro Garnacho,MID,372,Manchester United,Everton,6.4,1.0,4.64,1
+Bryan Mbeumo,MID,99,Brentford,Leicester City,7.9,1.0,4.9,2
+Ross Barkley,MID,29,Aston Villa,Chelsea,5.2,1.0,5.79,1
+Yoane Wissa,FWD,110,Brentford,Leicester City,6.1,1.0,5.0,8
+Jørgen Strand Larsen,FWD,566,Wolverhampton Wanderers,Bournemouth,5.6,1.0,5.27,11
+Francisco Evanilson de Lima Barbosa,FWD,617,Bournemouth,Wolverhampton Wanderers,6.0,1.0,5.94,12
+Jean-Philippe Mateta,FWD,207,Crystal Palace,Newcastle United,7.2,1.0,4.58,2
+Matheus Santos Carneiro Da Cunha,FWD,541,Wolverhampton Wanderers,Bournemouth,7.0,1.0,9.65,2
