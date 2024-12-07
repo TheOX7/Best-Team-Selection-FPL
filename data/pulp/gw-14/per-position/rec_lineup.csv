@@ -1,16 +1,16 @@
-name,position,element,team,opponent_team,price,condition,xTotPoints
-Caoimhin Kelleher,GK,325,Liverpool,Newcastle United,4.5,1.0,4.07
-Bernd Leno,GK,248,Fulham,Brighton & Hove Albion,5.0,1.0,4.48
-Pervis Estupiñán,DEF,122,Brighton & Hove Albion,Fulham,5.0,1.0,3.49
-James Tarkowski,DEF,236,Everton,Wolverhampton Wanderers,4.8,1.0,4.67
-Ashley Young,DEF,238,Everton,Wolverhampton Wanderers,4.6,1.0,3.46
-Harry Wilson,MID,259,Fulham,Brighton & Hove Albion,5.2,1.0,7.17
-Bruno Borges Fernandes,MID,366,Manchester United,Arsenal,8.5,1.0,7.91
-Mohamed Salah,MID,328,Liverpool,Newcastle United,13.2,1.0,12.95
-Bukayo Saka,MID,17,Arsenal,Manchester United,10.4,1.0,9.04
-Alex Iwobi,MID,247,Fulham,Brighton & Hove Albion,5.6,1.0,5.48
-Marcus Rashford,MID,385,Manchester United,Arsenal,6.9,1.0,7.24
-Yoane Wissa,FWD,110,Brentford,Aston Villa,6.2,1.0,6.28
-Jørgen Strand Larsen,FWD,566,Wolverhampton Wanderers,Everton,5.6,1.0,5.19
-Francisco Evanilson de Lima Barbosa,FWD,617,Bournemouth,Tottenham Hotspur,6.0,1.0,7.12
-Matheus Santos Carneiro Da Cunha,FWD,541,Wolverhampton Wanderers,Everton,7.1,1.0,9.53
+name,position,element,team,opponent_team,price,condition,xTotPoints,total_points
+Caoimhin Kelleher,GK,325,Liverpool,Newcastle United,4.5,1.0,4.07,2
+Bernd Leno,GK,248,Fulham,Brighton & Hove Albion,5.0,1.0,4.48,2
+Pervis Estupiñán,DEF,122,Brighton & Hove Albion,Fulham,5.0,1.0,3.49,1
+James Tarkowski,DEF,236,Everton,Wolverhampton Wanderers,4.8,1.0,4.67,6
+Ashley Young,DEF,238,Everton,Wolverhampton Wanderers,4.6,1.0,3.46,15
+Harry Wilson,MID,259,Fulham,Brighton & Hove Albion,5.2,1.0,7.17,2
+Bruno Borges Fernandes,MID,366,Manchester United,Arsenal,8.5,1.0,7.91,2
+Mohamed Salah,MID,328,Liverpool,Newcastle United,13.2,1.0,12.95,18
+Bukayo Saka,MID,17,Arsenal,Manchester United,10.4,1.0,9.04,3
+Alex Iwobi,MID,247,Fulham,Brighton & Hove Albion,5.6,1.0,5.48,15
+Marcus Rashford,MID,385,Manchester United,Arsenal,6.9,1.0,7.24,1
+Yoane Wissa,FWD,110,Brentford,Aston Villa,6.2,1.0,6.28,2
+Jørgen Strand Larsen,FWD,566,Wolverhampton Wanderers,Everton,5.6,1.0,5.19,2
+Francisco Evanilson de Lima Barbosa,FWD,617,Bournemouth,Tottenham Hotspur,6.0,1.0,7.12,2
+Matheus Santos Carneiro Da Cunha,FWD,541,Wolverhampton Wanderers,Everton,7.1,1.0,9.53,2
