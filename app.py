@@ -68,7 +68,6 @@ with st.sidebar:
             <b>Related Links</b> <br>
             <a href="https://fantasy.premierleague.com/help/rules" style="text-decoration: none;">FPL Rules</a> <br>
             <a href="https://github.com/vaastav/Fantasy-Premier-League/" style="text-decoration: none;">Data Source</a> <br>
-            <a href="https://fantasy.premierleague.com/fixtures/" style="text-decoration: none;">FPL Fixtures</a> <br>
             <a href="https://github.com/TheOX7/Best-Team-Selection-FPL" style="text-decoration: none;">Github Repository</a> <br>
         </div>
     """, unsafe_allow_html=True)
@@ -98,11 +97,11 @@ if selected == 'Rec. Starting Eleven':
         
         col_1_1, col_1_2 = st.columns(2)
         with col_1_1:
-            selected_gw = st.selectbox('Select Gameweek', [i for i in range(1,16)], index=0)
+            selected_gw = st.selectbox('Select Gameweek', [i for i in range(1,19)], index=0)
             gw = selected_gw
         with col_1_2:
             selected_option = st.selectbox('Select Model', ['General', 'per Position'], index=0)
-            if selected_option == 'General': 
+            if selected_option == 'General':
                 option = 'general'
             else: 
                 option = 'per-position'
@@ -133,7 +132,7 @@ if selected == 'Rec. Starting Eleven':
         
         # Cek apakah gambar tersedia
         if os.path.exists(image_path):
-            st.image(image_path, use_column_width=True)
+            st.image(image_path)
         else:
             st.warning(f'Team of The Week for Gameweek {gw} is not available yet.')
     

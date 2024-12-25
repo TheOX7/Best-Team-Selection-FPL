@@ -1,16 +1,16 @@
-name,position,team,opponent_team,price,condition,xTotPoints
-Bernd Leno,GK,Fulham,Arsenal,5.0,1.0,6.06
-Jordan Pickford,GK,Everton,Liverpool,4.9,1.0,7.02
-Vitalii Mykolenko,DEF,Everton,Liverpool,4.3,1.0,4.98
-William Saliba,DEF,Arsenal,Fulham,6.1,1.0,6.76
-Pervis Estupiñán,DEF,Brighton & Hove Albion,Leicester City,5.1,1.0,6.29
-Mohamed Salah,MID,Liverpool,Everton,13.3,1.0,14.62
-Martin Ødegaard,MID,Arsenal,Fulham,8.3,1.0,7.83
-Bukayo Saka,MID,Arsenal,Fulham,10.5,1.0,9.72
-Justin Kluivert,MID,Bournemouth,Ipswich Town,5.5,1.0,5.86
-Enzo Fernández,MID,Chelsea,Tottenham Hotspur,4.9,1.0,5.59
-Alexander Isak,FWD,Newcastle United,Brentford,8.5,1.0,7.97
-Yoane Wissa,FWD,Brentford,Newcastle United,6.2,1.0,8.54
-Patson Daka,FWD,Leicester City,Brighton & Hove Albion,4.8,1.0,8.39
-Patson Daka,FWD,Leicester City,Brighton & Hove Albion,4.8,1.0,8.39
-Jean-Philippe Mateta,FWD,Crystal Palace,Manchester City,7.2,1.0,7.56
+name,position,team,opponent_team,price,condition,xTotPoints,total_points
+André Onana, GK, Manchester United, Nottingham Forest, 5.2, 1.0, 3.84, 1
+Bernd Leno, GK, Fulham, Arsenal, 5, 1.0, 4.24, 3
+Milos Kerkez, DEF, Bournemouth, Ipswich Town, 4.6, 1.0, 4.82, 2
+Trevoh Chalobah, DEF, Crystal Palace, Manchester City, 4.4, 1.0, 3.33, 1
+William Saliba, DEF, Arsenal, Fulham, 6.1, 1.0, 6.05, 9
+Gabriel dos Santos Magalhães, DEF, Arsenal, Fulham, 6.2, 1.0, 4.15, 0
+Pervis Estupiñán, DEF, Brighton & Hove Albion, Leicester City, 5.1, 1.0, 3.75, 5
+Bruno Borges Fernandes, MID, Manchester United, Nottingham Forest, 8.5, 1.0, 7.46, 9
+Bukayo Saka, MID, Arsenal, Fulham, 10.5, 1.0, 8.01, 2
+Alex Iwobi, MID, Fulham, Arsenal, 5.6, 1.0, 5.8, 2
+Justin Kluivert, MID, Bournemouth, Ipswich Town, 5.5, 1.0, 6.62, 2
+Enzo Fernández, MID, Chelsea, Tottenham Hotspur, 4.9, 1.0, 6.1, 9
+Alexander Isak, FWD, Newcastle United, Brentford, 8.5, 1.0, 6.94, 8
+Yoane Wissa, FWD, Brentford, Newcastle United, 6.2, 1.0, 7.47, 7
+Matheus Santos Carneiro Da Cunha, FWD, Wolverhampton Wanderers, West Ham United, 7.1, 1.0, 7.37, 1
