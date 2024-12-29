@@ -1,16 +1,16 @@
-name,position,element,team,opponent_team,price,condition,xTotPoints
-Kepa Arrizabalaga,GK,152,Bournemouth,Crystal Palace,4.5,1.0,6.73
-Robert Sánchez,GK,185,Chelsea,Fulham,4.8,1.0,3.17
-Vitalii Mykolenko,DEF,231,Everton,Manchester City,4.3,1.0,4.71
-Tyrick Mitchell,DEF,210,Crystal Palace,Bournemouth,4.8,1.0,5.02
-William Saliba,DEF,18,Arsenal,Ipswich Town,6.3,1.0,6.15
-Dean Huijsen,DEF,580,Bournemouth,Crystal Palace,4.3,1.0,6.94
-Cole Palmer,MID,182,Chelsea,Fulham,11.3,1.0,8.43
-Jacob Murphy,MID,402,Newcastle United,Aston Villa,5.0,1.0,5.46
-Mohamed Salah,MID,328,Liverpool,Leicester City,13.5,1.0,12.11
-Justin Kluivert,MID,71,Bournemouth,Crystal Palace,5.5,1.0,7.42
-Bryan Mbeumo,MID,99,Brentford,Brighton & Hove Albion,7.6,1.0,6.22
-Dominik Szoboszlai,MID,336,Liverpool,Leicester City,6.3,1.0,5.9
-Alexander Isak,FWD,401,Newcastle United,Aston Villa,9.0,1.0,9.1
-Jamie Vardy,FWD,306,Leicester City,Liverpool,5.6,1.0,3.44
-Matheus Santos Carneiro Da Cunha,FWD,541,Wolverhampton Wanderers,Manchester United,7.1,1.0,4.52
+name,position,element,team,opponent_team,price,condition,xTotPoints,total_points
+Kepa Arrizabalaga,GK,152,Bournemouth,Crystal Palace,4.5,1.0,8.26,8
+Mark Flekken,GK,91,Brentford,Brighton & Hove Albion,4.5,1.0,3.29,3
+Fabian Schär,DEF,415,Newcastle United,Aston Villa,5.4,1.0,4.91,6
+Tyrick Mitchell,DEF,210,Crystal Palace,Bournemouth,4.8,1.0,5.91,7
+William Saliba,DEF,18,Arsenal,Ipswich Town,6.3,1.0,5.93,7
+Dean Huijsen,DEF,580,Bournemouth,Crystal Palace,4.3,1.0,6.57,8
+Jacob Murphy,MID,402,Newcastle United,Aston Villa,5.0,1.0,4.94,6
+Ismaïla Sarr,MID,585,Crystal Palace,Bournemouth,5.8,1.0,5.05,3
+Jadon Sancho,MID,386,Chelsea,Fulham,6.2,1.0,5.93,2
+Mohamed Salah,MID,328,Liverpool,Leicester City,13.5,1.0,8.82,9
+Justin Kluivert,MID,71,Bournemouth,Crystal Palace,5.5,1.0,7.58,2
+Bryan Mbeumo,MID,99,Brentford,Brighton & Hove Albion,7.6,1.0,6.08,3
+Alexander Isak,FWD,401,Newcastle United,Aston Villa,9.0,1.0,9.37,8
+Matheus Santos Carneiro Da Cunha,FWD,541,Wolverhampton Wanderers,Manchester United,7.1,1.0,5.09,12
+Ollie Watkins,FWD,58,Aston Villa,Newcastle United,8.8,1.0,5.3,1
