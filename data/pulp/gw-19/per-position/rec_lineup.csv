@@ -1,16 +1,16 @@
-name,position,element,team,opponent_team,price,condition,xTotPoints
-Kepa Arrizabalaga,GK,152,Bournemouth,Fulham,4.5,1.0,7.26
-Jordan Pickford,GK,235,Everton,Nottingham Forest,5.0,1.0,5.27
-Tyrick Mitchell,DEF,210,Crystal Palace,Southampton,4.8,1.0,6.76
-William Saliba,DEF,18,Arsenal,Brentford,6.3,1.0,8.47
-Jurriën Timber,DEF,6,Arsenal,Brentford,5.7,1.0,6.17
-Dean Huijsen,DEF,580,Bournemouth,Fulham,4.4,1.0,7.1
-Jacob Murphy,MID,402,Newcastle United,Manchester United,5.0,1.0,6.38
-Ismaïla Sarr,MID,585,Crystal Palace,Southampton,5.9,1.0,6.2
-Mohamed Salah,MID,328,Liverpool,West Ham United,13.6,1.0,12.34
-Anthony Gordon,MID,398,Newcastle United,Manchester United,7.3,1.0,6.6
-Amad Diallo,MID,364,Manchester United,Newcastle United,5.4,1.0,5.55
-Alexander Isak,FWD,401,Newcastle United,Manchester United,9.1,1.0,9.35
-Cody Gakpo,FWD,321,Liverpool,West Ham United,7.2,1.0,6.47
-Matheus Santos Carneiro Da Cunha,FWD,541,Wolverhampton Wanderers,Tottenham Hotspur,7.1,1.0,7.05
-Rodrigo Muniz Carvalho,FWD,251,Fulham,Bournemouth,5.5,1.0,6.61
+name,position,element,team,opponent_team,price,condition,xTotPoints,total_points
+Kepa Arrizabalaga,GK,152,Bournemouth,Fulham,4.5,1.0,7.26,2
+Jordan Pickford,GK,235,Everton,Nottingham Forest,5.0,1.0,5.27,1
+Tyrick Mitchell,DEF,210,Crystal Palace,Southampton,4.8,1.0,6.76,2
+William Saliba,DEF,18,Arsenal,Brentford,6.3,1.0,8.47,2
+Jurriën Timber,DEF,6,Arsenal,Brentford,5.7,1.0,6.17,1
+Dean Huijsen,DEF,580,Bournemouth,Fulham,4.4,1.0,7.1,1
+Jacob Murphy,MID,402,Newcastle United,Manchester United,5.0,1.0,6.38,3
+Ismaïla Sarr,MID,585,Crystal Palace,Southampton,5.9,1.0,6.2,2
+Mohamed Salah,MID,328,Liverpool,West Ham United,13.6,1.0,12.34,16
+Anthony Gordon,MID,398,Newcastle United,Manchester United,7.3,1.0,6.6,6
+Amad Diallo,MID,364,Manchester United,Newcastle United,5.4,1.0,5.55,2
+Alexander Isak,FWD,401,Newcastle United,Manchester United,9.1,1.0,9.35,7
+Cody Gakpo,FWD,321,Liverpool,West Ham United,7.2,1.0,6.47,5
+Matheus Santos Carneiro Da Cunha,FWD,541,Wolverhampton Wanderers,Tottenham Hotspur,7.1,1.0,7.05,1
+Rodrigo Muniz Carvalho,FWD,251,Fulham,Bournemouth,5.5,1.0,6.61,1
