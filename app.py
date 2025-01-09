@@ -6,6 +6,7 @@ from streamlit_option_menu import option_menu
 from streamlit_echarts import st_echarts 
 from pulp_rec_lineup import pulp_model  # Import fungsi dari file pulp_rec_lineup.py
 from streamlit_extras.colored_header import colored_header
+import random
 
 def horizontal_line():
     st.markdown(f'<hr>', unsafe_allow_html=True)
@@ -56,7 +57,7 @@ with st.sidebar:
     horizontal_line()
 
     selected = option_menu(menu_title=None, 
-                          options=['Rec. Starting Eleven', 'Dataset Information'], 
+                          options=['Rec. Lineup', 'Dataset Information'], 
                           icons=['house'], 
                           menu_icon='cast', default_index=0
                         )
@@ -81,7 +82,7 @@ with st.sidebar:
         </div>
     """, unsafe_allow_html=True)
     
-if selected == 'Rec. Starting Eleven':
+if selected == 'Rec. Lineup':
     horizontal_line()
     header_text('Fantasy Premier League (FPL) <br> Starting Lineup Recommendations', 36)
     horizontal_line()
@@ -95,16 +96,28 @@ if selected == 'Rec. Starting Eleven':
         header_text('Starting Lineup Recommendations', 20)
         header_text('Includes Substitutions (15 Players & Under £100)', 16)
         
-        col_1_1, col_1_2 = st.columns(2)
+        col_1_1, col_1_2, col_1_3 = st.columns(3)
         with col_1_1:
-            selected_gw = st.selectbox('Select Gameweek', [i for i in range(1,21)], index=0)
+            selected_gw = st.selectbox('Select Gameweek', [i for i in range(1,21)], index=19)
             gw = selected_gw
         with col_1_2:
-            selected_option = st.selectbox('Select Model', ['General', 'per Position'], index=0)
+            selected_option = st.selectbox('Select Model', ['General', 'per Position'], index=1)
             if selected_option == 'General':
                 option = 'general'
             else: 
                 option = 'per-position'
+                
+        with col_1_3:   
+            st.markdown("<br>", unsafe_allow_html=True)
+            with st.popover("Information (Click Here)"):
+                st.markdown(""" 
+                            - <b>Model General: </b> Starting lineup recommendation is generated using a machine learning model 
+                            trained on a dataset containing players from all positions (GK, DEF, MID, FWD).
+                            Final starting lineup is selected using PuLP optimization with constraints that sources from FPL rules.
+                            <br>
+                            - <b>Model per Position: </b> Starting lineup recommendation is generated using separate machine learning models trained for each position (GK, DEF, MID, FWD). 
+                            Each model predicts the <b>Expected Total Points (xTotPoints)</b> for players in its respective position. The predicted xTotPoints from all models are then combined, and the final starting lineup is selected using PuLP optimization.
+                            """, unsafe_allow_html=True)
         
         data = pd.read_csv(f'data/pulp/gw-{gw}/{option}/not_rec_lineup.csv')
         data = data.rename(columns={'total_points':'Actual Points'})
@@ -132,7 +145,7 @@ if selected == 'Rec. Starting Eleven':
         
         # Cek apakah gambar tersedia
         if os.path.exists(image_path):
-            st.image(image_path)
+            st.image(image_path)     
         else:
             st.warning(f'Team of The Week for Gameweek {gw} is not available yet.')
     
@@ -154,7 +167,7 @@ if selected == 'Rec. Starting Eleven':
     col_subheader, col_mode_filter = st.columns([3, 1])
     with col_subheader:
         colored_header(
-            label="Player Comparison",
+            label="Player Last 5 GWs Performance",
             description="",
             color_name="orange-70",
         )
@@ -162,7 +175,7 @@ if selected == 'Rec. Starting Eleven':
     with col_mode_filter:
         selected_how = st.selectbox(
             "Select Mode",
-            ["Head to Head (Last 5 Games)", "Last 5 Games"], index=0
+            ["Head to Head (Last 5 Games)", "Last 5 Games (General)"], index=0
         )
 
     # Inisialisasi filtered_df dengan data_last_5
@@ -171,7 +184,7 @@ if selected == 'Rec. Starting Eleven':
     if selected_how == "Head to Head (Last 5 Games)":
         col_1, col_2, col_3 = st.columns(3)
         with col_1:
-            selected_pos = st.selectbox("Select Position", filtered_df['position'].unique())
+            selected_pos = st.selectbox("Select Position", filtered_df['position'].unique(), index=2)
 
         # Filter dataframe berdasarkan position yang dipilih
         filtered_df = filtered_df[filtered_df['position'] == selected_pos]
@@ -201,7 +214,7 @@ if selected == 'Rec. Starting Eleven':
         # Tambahkan filter untuk selected_opponent_team
         filtered_df = filtered_df[filtered_df['opponent_team'] == selected_opponent_team]
 
-    elif selected_how == "Last 5 Games":
+    elif selected_how == "Last 5 Games (General)":
         col_1, col_2 = st.columns(2)
         with col_1:
             selected_pos = st.selectbox("Select Position", filtered_df['position'].unique())
@@ -307,7 +320,8 @@ if selected == 'Rec. Starting Eleven':
     # Select features
     selected_labels = st.multiselect(
         "Select Features",
-        non_h2h_display_labels
+        non_h2h_display_labels,
+        default=['Total Goals Scored', 'Total Assists', 'xTotPoints']
     )
 
     # Mapping balik dari label ke nama kolom asli
@@ -324,16 +338,18 @@ if selected == 'Rec. Starting Eleven':
         col_1_1, col_1_2 = st.columns(2)
 
         with col_1_1:
-            st.subheader("Table Player's Stats")
+            st.subheader("Players Stats")
             st.write("(Click on a Table Column to Order It)")
             st.dataframe(filtered_df, use_container_width=True, hide_index=True, height=500)
 
         with col_1_2:
             st.subheader('Player Comparison')
-            
+            default_players = random.sample(filtered_df['name'].tolist(), min(5, len(filtered_df['name'])))
+
             selected_players = st.multiselect(
                 "Select Players Name (Select at least two players)",
-                filtered_df['name'].tolist()
+                filtered_df['name'].tolist(),
+                default=default_players
             )
 
             if selected_players and selected_labels:

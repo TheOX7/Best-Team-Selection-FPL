@@ -1,16 +1,16 @@
-name,position,team,opponent_team,price,condition,xTotPoints
-David Raya Martin,GK,Arsenal,Brighton & Hove Albion,5.6,1.0,4.04
-Jordan Pickford,GK,Everton,Bournemouth,5.0,1.0,6.18
-Trevoh Chalobah,DEF,Crystal Palace,Chelsea,4.4,1.0,4.98
-Lewis Hall,DEF,Newcastle United,Tottenham Hotspur,4.8,1.0,7.61
-Dean Huijsen,DEF,Bournemouth,Everton,4.4,1.0,5.38
-Jacob Murphy,MID,Newcastle United,Tottenham Hotspur,5.1,1.0,7.47
-Ismaïla Sarr,MID,Crystal Palace,Chelsea,5.9,1.0,5.57
-Mohamed Salah,MID,Liverpool,Manchester United,13.6,1.0,14.65
-Luis Díaz,MID,Liverpool,Manchester United,7.6,1.0,6.75
-Bryan Mbeumo,MID,Brentford,Southampton,7.7,1.0,6.8
-Morgan Rogers,MID,Aston Villa,Leicester City,5.5,1.0,5.84
-Eberechi Eze,MID,Crystal Palace,Chelsea,6.6,1.0,6.82
-Alexander Isak,FWD,Newcastle United,Tottenham Hotspur,9.3,1.0,9.53
-Cody Gakpo,FWD,Liverpool,Manchester United,7.3,1.0,7.4
-Gabriel Fernando de Jesus,FWD,Arsenal,Brighton & Hove Albion,6.9,1.0,7.82
+name,position,team,opponent_team,price,condition,xTotPoints,total_points
+David Raya Martin,GK,Arsenal,Brighton & Hove Albion,5.6,1.0,4.04,3
+Jordan Pickford,GK,Everton,Bournemouth,5.0,1.0,6.18,4
+Trevoh Chalobah,DEF,Crystal Palace,Chelsea,4.4,1.0,4.98,0
+Lewis Hall,DEF,Newcastle United,Tottenham Hotspur,4.8,1.0,7.61,2
+Dean Huijsen,DEF,Bournemouth,Everton,4.4,1.0,5.38,8
+Jacob Murphy,MID,Newcastle United,Tottenham Hotspur,5.1,1.0,7.47,5
+Ismaïla Sarr,MID,Crystal Palace,Chelsea,5.9,1.0,5.57,2
+Mohamed Salah,MID,Liverpool,Manchester United,13.6,1.0,14.65,7
+Luis Díaz,MID,Liverpool,Manchester United,7.6,1.0,6.75,1
+Bryan Mbeumo,MID,Brentford,Southampton,7.7,1.0,6.8,19
+Morgan Rogers,MID,Aston Villa,Leicester City,5.5,1.0,5.84,0
+Eberechi Eze,MID,Crystal Palace,Chelsea,6.6,1.0,6.82,5
+Alexander Isak,FWD,Newcastle United,Tottenham Hotspur,9.3,1.0,9.53,7
+Cody Gakpo,FWD,Liverpool,Manchester United,7.3,1.0,7.4,6
+Gabriel Fernando de Jesus,FWD,Arsenal,Brighton & Hove Albion,6.9,1.0,7.82,2
