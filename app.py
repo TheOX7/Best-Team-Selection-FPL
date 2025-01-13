@@ -344,12 +344,10 @@ if selected == 'Rec. Lineup':
 
         with col_1_2:
             st.subheader('Player Comparison')
-            default_players = random.sample(filtered_df['name'].tolist(), min(5, len(filtered_df['name'])))
 
             selected_players = st.multiselect(
                 "Select Players Name (Select at least two players)",
                 filtered_df['name'].tolist(),
-                default=default_players
             )
 
             if selected_players and selected_labels:
