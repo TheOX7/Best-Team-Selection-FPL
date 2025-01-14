@@ -98,7 +98,7 @@ if selected == 'Rec. Lineup':
         
         col_1_1, col_1_2, col_1_3 = st.columns(3)
         with col_1_1:
-            selected_gw = st.selectbox('Select Gameweek', [i for i in range(1,21)], index=19)
+            selected_gw = st.selectbox('Select Gameweek', [i for i in range(1,22)], index=20)
             gw = selected_gw
         with col_1_2:
             selected_option = st.selectbox('Select Model', ['General', 'per Position'], index=1)

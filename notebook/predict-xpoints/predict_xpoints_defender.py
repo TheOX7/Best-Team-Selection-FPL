@@ -26,7 +26,7 @@ if GW_TO_PRED == 1:
     SAVE_GW_DATA = 1
     GW_BEFORE = 1
 else:
-    GW_BEFORE = GW_TO_PRED - 1
+    GW_BEFORE = GW_TO_PRED - 2
     SAVE_GW_DATA = GW_TO_PRED
 
 print(f" -- Dataset Loaded -- \n")
@@ -52,25 +52,20 @@ gw_before_df['GW'] = GW_TO_PRED
 # Tambahkan data fixtures untuk GW == GW_TO_PRED
 fixtures_gw_to_pred = fixtures_2425_df[fixtures_2425_df['GW'] == GW_TO_PRED]
 
-# Fungsi untuk mengubah was_home dan opponent_team berdasarkan fixtures
-def update_team_info(row, fixtures):
-    team = row['team']
+# Fungsi untuk mengubah was_home dan opponent_team berdasarkan fixtures menggunakan dictionary
+def update_team_info(df, fixtures):
+    # Buat dictionary untuk mapping informasi home dan away dari fixtures
+    home_mapping = fixtures.set_index('home_team')['away_team'].to_dict()
+    away_mapping = fixtures.set_index('away_team')['home_team'].to_dict()
 
-    # Cek jika team ada di home_team atau away_team di fixtures GW GW_TO_PRED
-    home_match = fixtures[fixtures['home_team'] == team]
-    away_match = fixtures[fixtures['away_team'] == team]
-
-    if not home_match.empty:
-        row['was_home'] = True
-        row['opponent_team'] = home_match['away_team'].values[0]
-    elif not away_match.empty:
-        row['was_home'] = False
-        row['opponent_team'] = away_match['home_team'].values[0]
-
-    return row
+    # Tambahkan kolom was_home dan opponent_team berdasarkan mapping
+    df['was_home'] = df['team'].map(lambda team: True if team in home_mapping else False)
+    df['opponent_team'] = df['team'].map(lambda team: home_mapping.get(team) if team in home_mapping else away_mapping.get(team))
+    
+    return df
 
 # Terapkan fungsi update ke data GW == GW_TO_PRED
-gw_to_pred_df = gw_before_df.apply(update_team_info, axis=1, fixtures=fixtures_gw_to_pred)
+gw_to_pred_df = update_team_info(gw_before_df, fixtures_gw_to_pred)
 
 # Tambahkan data GW == GW_TO_PRED ke df
 df = pd.concat([df, gw_to_pred_df], ignore_index=True)
