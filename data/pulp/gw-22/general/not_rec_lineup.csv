@@ -1,0 +1,437 @@
+name,position,team,opponent_team,price,condition,xTotPoints
+Alex Scott,MID,Bournemouth,Newcastle United,4.7,0.0,0.0
+Tomiyasu Takehiro,DEF,Arsenal,Aston Villa,4.8,0.0,0.0
+Ben Brereton Díaz,MID,Southampton,Nottingham Forest,4.8,1.0,0.0
+Pau Torres,DEF,Aston Villa,Arsenal,4.2,0.0,0.94
+Joel Ward,DEF,Crystal Palace,West Ham United,4.3,1.0,0.04
+Hwang Hee-chan,MID,Wolverhampton Wanderers,Chelsea,6.1,1.0,2.71
+Hákon Valdimarsson,GK,Brentford,Liverpool,3.9,1.0,0.24
+João Victor Gomes da Silva,MID,Wolverhampton Wanderers,Chelsea,4.9,1.0,2.25
+Cole Palmer,MID,Chelsea,Wolverhampton Wanderers,11.4,0.75,7.51
+Mitoma Kaoru,MID,Brighton & Hove Albion,Manchester United,6.3,1.0,3.05
+Boubakary Soumaré,MID,Leicester City,Fulham,4.4,1.0,1.38
+Jeffrey Schlupp,MID,Crystal Palace,West Ham United,4.6,1.0,0.05
+Milos Kerkez,DEF,Bournemouth,Newcastle United,4.8,1.0,4.95
+Jason Steele,GK,Brighton & Hove Albion,Manchester United,4.1,1.0,0.0
+Conor Coady,DEF,Leicester City,Fulham,4.0,1.0,0.61
+Armando Broja,FWD,Everton,Tottenham Hotspur,5.4,0.0,0.04
+Adam Webster,DEF,Brighton & Hove Albion,Manchester United,4.3,1.0,2.2
+Thomas Partey,MID,Arsenal,Aston Villa,5.0,1.0,1.77
+Harry Wilson,MID,Fulham,Leicester City,5.2,1.0,4.51
+Kasey McAteer,MID,Leicester City,Fulham,4.7,1.0,0.54
+Curtis Jones,MID,Liverpool,Brentford,5.3,1.0,3.23
+Gustavo Nunes Fernandes Gomes,MID,Brentford,Liverpool,4.9,0.0,0.0
+Yunus Emre Konak,MID,Brentford,Liverpool,4.5,1.0,0.06
+Alex Murphy,DEF,Newcastle United,Bournemouth,4.0,1.0,0.0
+Abdoulaye Doucouré,MID,Everton,Tottenham Hotspur,5.1,1.0,2.03
+José Malheiro de Sá,GK,Wolverhampton Wanderers,Chelsea,4.3,1.0,4.11
+Alexander Isak,FWD,Newcastle United,Bournemouth,9.4,1.0,9.88
+Gonçalo Manuel Ganchinho Guedes,MID,Wolverhampton Wanderers,Chelsea,5.3,1.0,2.48
+Brajan Gruda,MID,Brighton & Hove Albion,Manchester United,5.4,1.0,0.69
+Rodrigo 'Rodri' Hernandez,MID,Manchester City,Ipswich Town,6.2,0.0,0.0
+Justin Devenny,MID,Crystal Palace,West Ham United,4.5,1.0,0.47
+Craig Dawson,DEF,Wolverhampton Wanderers,Chelsea,4.3,1.0,0.56
+Jordan Ayew,MID,Leicester City,Fulham,5.2,1.0,1.82
+Marcos Senesi,DEF,Bournemouth,Newcastle United,4.6,0.0,0.0
+Kiernan Dewsbury-Hall,MID,Chelsea,Wolverhampton Wanderers,5.5,0.0,0.0
+Maxwel Cornet,MID,Southampton,Nottingham Forest,4.7,1.0,0.0
+Jefferson Lerma Solís,MID,Crystal Palace,West Ham United,4.8,0.75,1.94
+Jannik Vestergaard,DEF,Leicester City,Fulham,3.9,1.0,0.67
+Luke Thomas,DEF,Leicester City,Fulham,3.9,1.0,0.24
+Bruno Borges Fernandes,MID,Manchester United,Brighton & Hove Albion,8.4,1.0,2.03
+Adam Smith,DEF,Bournemouth,Newcastle United,4.4,0.0,0.09
+Rasmus Højlund,FWD,Manchester United,Brighton & Hove Albion,6.9,1.0,1.59
+Callum Wilson,FWD,Newcastle United,Bournemouth,6.9,0.0,0.0
+Oliver Skipp,MID,Leicester City,Fulham,4.7,1.0,0.49
+Taylor Harwood-Bellis,DEF,Southampton,Nottingham Forest,4.1,1.0,1.77
+Lisandro Martínez,DEF,Manchester United,Brighton & Hove Albion,4.4,1.0,2.03
+Joško Gvardiol,DEF,Manchester City,Ipswich Town,6.0,1.0,2.07
+Joachim Andersen,DEF,Fulham,Leicester City,4.2,1.0,0.57
+Moisés Caicedo Corozo,MID,Chelsea,Wolverhampton Wanderers,4.9,1.0,1.82
+Carlos Henrique Casimiro,MID,Manchester United,Brighton & Hove Albion,4.7,1.0,0.75
+Roman Dixon,DEF,Everton,Tottenham Hotspur,4.0,1.0,0.0
+Jhon Durán,FWD,Aston Villa,Arsenal,5.8,1.0,0.65
+Jacob Murphy,MID,Newcastle United,Bournemouth,5.1,1.0,5.06
+Sean Longstaff,MID,Newcastle United,Bournemouth,4.6,1.0,0.37
+Ryan Manning,DEF,Southampton,Nottingham Forest,4.3,1.0,0.39
+Vitalii Mykolenko,DEF,Everton,Tottenham Hotspur,4.3,1.0,2.38
+Ryan Christie,MID,Bournemouth,Newcastle United,4.9,1.0,3.3
+Kepa Arrizabalaga,GK,Bournemouth,Newcastle United,4.5,1.0,3.82
+Youssef Ramalho Chermiti,FWD,Everton,Tottenham Hotspur,4.9,0.0,0.0
+Noni Madueke,MID,Chelsea,Wolverhampton Wanderers,6.1,1.0,1.19
+Nélson Cabral Semedo,DEF,Wolverhampton Wanderers,Chelsea,4.5,1.0,2.56
+Tommy Doyle,MID,Wolverhampton Wanderers,Chelsea,4.8,1.0,0.87
+Tom Heaton,GK,Manchester United,Brighton & Hove Albion,3.9,1.0,0.0
+Lesley Ugochukwu,MID,Southampton,Nottingham Forest,4.4,1.0,1.26
+Evan Ferguson,FWD,Brighton & Hove Albion,Manchester United,5.5,0.5,0.06
+Christian Eriksen,MID,Manchester United,Brighton & Hove Albion,5.3,1.0,1.73
+Jean-Ricner Bellegarde,MID,Wolverhampton Wanderers,Chelsea,4.9,1.0,0.69
+Benoît Badiashile,DEF,Chelsea,Wolverhampton Wanderers,4.3,0.0,0.0
+Jack Stephens,DEF,Southampton,Nottingham Forest,4.0,0.0,0.0
+Mateo Kovačić,MID,Manchester City,Ipswich Town,5.4,1.0,1.98
+Phil Foden,MID,Manchester City,Ipswich Town,9.2,1.0,8.11
+Mason Mount,MID,Manchester United,Brighton & Hove Albion,6.3,0.25,0.0
+Gabriel Martinelli Silva,MID,Arsenal,Aston Villa,6.7,1.0,3.7
+Yasin Ayari,MID,Brighton & Hove Albion,Manchester United,5.0,1.0,1.36
+Mikel Merino,MID,Arsenal,Aston Villa,6.0,1.0,1.29
+Facundo Buonanotte,MID,Leicester City,Fulham,4.8,1.0,1.31
+Caoimhin Kelleher,GK,Liverpool,Brentford,4.1,1.0,0.0
+Kai Havertz,FWD,Arsenal,Aston Villa,7.8,1.0,2.52
+Scott Carson,GK,Manchester City,Ipswich Town,4.0,1.0,0.0
+Ethan Brierley,MID,Brentford,Liverpool,4.4,1.0,0.0
+Rico Henry,DEF,Brentford,Liverpool,4.3,1.0,0.16
+Yoane Wissa,FWD,Brentford,Liverpool,6.2,1.0,3.61
+Daniel Iversen,GK,Leicester City,Fulham,3.9,1.0,0.0
+Mads Hermansen,GK,Leicester City,Fulham,4.5,0.0,0.0
+Rob Holding,DEF,Crystal Palace,West Ham United,4.2,1.0,0.01
+Ismaïla Sarr,MID,Crystal Palace,West Ham United,5.8,1.0,3.66
+Ryan Sessegnon,DEF,Fulham,Leicester City,4.2,1.0,0.15
+Josh Dasilva,MID,Brentford,Liverpool,4.8,0.0,0.0
+Jadon Sancho,MID,Chelsea,Wolverhampton Wanderers,6.2,1.0,1.79
+Sam Johnstone,GK,Wolverhampton Wanderers,Chelsea,4.2,1.0,0.0
+Jonny Evans,DEF,Manchester United,Brighton & Hove Albion,4.4,0.25,0.0
+Mohamed Salah,MID,Liverpool,Brentford,13.7,1.0,10.76
+Federico Chiesa,MID,Liverpool,Brentford,6.8,1.0,0.0
+Timothy Castagne,DEF,Fulham,Leicester City,4.2,1.0,2.16
+Tariq Lamptey,DEF,Brighton & Hove Albion,Manchester United,4.4,1.0,1.89
+Leandro Trossard,MID,Arsenal,Aston Villa,6.8,1.0,4.64
+Séamus Coleman,DEF,Everton,Tottenham Hotspur,4.3,0.0,0.24
+Fabian Schär,DEF,Newcastle United,Bournemouth,5.4,1.0,2.72
+Nicolas Jackson,FWD,Chelsea,Wolverhampton Wanderers,8.0,1.0,2.13
+Jamie Vardy,FWD,Leicester City,Fulham,5.5,1.0,1.94
+Miguel Almirón Rejala,MID,Newcastle United,Bournemouth,5.4,1.0,0.4
+James Garner,MID,Everton,Tottenham Hotspur,4.9,0.75,0.0
+Marcus Tavernier,MID,Bournemouth,Newcastle United,5.4,0.0,0.0
+Omari Kellyman,MID,Chelsea,Wolverhampton Wanderers,4.4,0.0,0.0
+Martial Godo,MID,Fulham,Leicester City,4.4,1.0,0.1
+Harrison Reed,MID,Fulham,Leicester City,4.7,1.0,0.0
+Will Alves,MID,Leicester City,Fulham,4.5,1.0,0.06
+Carlos Baleba,MID,Brighton & Hove Albion,Manchester United,5.0,1.0,2.32
+James Hill,DEF,Bournemouth,Newcastle United,3.9,0.25,1.65
+Ryan Fraser,MID,Southampton,Nottingham Forest,4.8,1.0,0.0
+Nathan Patterson,DEF,Everton,Tottenham Hotspur,4.4,1.0,0.23
+Robin Olsen,GK,Aston Villa,Arsenal,4.5,1.0,0.0
+Mathias Jensen,MID,Brentford,Liverpool,5.3,1.0,1.38
+Bart Verbruggen,GK,Brighton & Hove Albion,Manchester United,4.5,1.0,3.33
+Dango Ouattara,MID,Bournemouth,Newcastle United,5.0,1.0,2.96
+Yehor Yarmoliuk,MID,Brentford,Liverpool,4.4,1.0,0.27
+Tyler Dibling,MID,Southampton,Nottingham Forest,4.5,0.75,2.16
+Paul Onuachu,FWD,Southampton,Nottingham Forest,4.9,1.0,1.11
+Kieran Tierney,DEF,Arsenal,Aston Villa,4.3,1.0,0.33
+Orel Mangala,MID,Everton,Tottenham Hotspur,5.0,1.0,1.31
+Darwin Núñez Ribeiro,FWD,Liverpool,Brentford,7.0,1.0,0.55
+Sugawara Yukinari,DEF,Southampton,Nottingham Forest,4.3,1.0,1.19
+Bobby De Cordova-Reid,MID,Leicester City,Fulham,5.2,1.0,0.6
+Manuel Ugarte,MID,Manchester United,Brighton & Hove Albion,4.9,1.0,0.11
+Matheus Luiz Nunes,MID,Manchester City,Ipswich Town,4.9,1.0,0.26
+Jake O'Brien,DEF,Everton,Tottenham Hotspur,4.5,1.0,0.17
+Cameron Peupion,MID,Brighton & Hove Albion,Manchester United,4.4,1.0,0.0
+Kosta Nedeljković,DEF,Aston Villa,Arsenal,3.9,1.0,0.36
+Sepp van den Berg,DEF,Brentford,Liverpool,4.1,1.0,1.29
+Jarrad Branthwaite,DEF,Everton,Tottenham Hotspur,4.8,1.0,2.01
+Ferdi Kadioglu,DEF,Brighton & Hove Albion,Manchester United,4.5,0.0,0.0
+Mats Wieffer,MID,Brighton & Hove Albion,Manchester United,4.7,0.5,1.01
+Kyle Walker,DEF,Manchester City,Ipswich Town,5.1,1.0,0.21
+Robert Sánchez,GK,Chelsea,Wolverhampton Wanderers,4.8,1.0,2.34
+Asmir Begovic,GK,Everton,Tottenham Hotspur,4.0,1.0,0.0
+Ricardo Barbosa Pereira,DEF,Leicester City,Fulham,4.1,0.0,0.0
+Harvey Elliott,MID,Liverpool,Brentford,5.2,1.0,0.69
+Garang Kuol,MID,Newcastle United,Bournemouth,4.4,1.0,0.0
+Rúben Gato Alves Dias,DEF,Manchester City,Ipswich Town,5.4,0.25,0.0
+Ben Chilwell,DEF,Chelsea,Wolverhampton Wanderers,4.6,1.0,0.0
+Daniel Jebbison,FWD,Bournemouth,Newcastle United,4.5,1.0,0.26
+Tyrick Mitchell,DEF,Crystal Palace,West Ham United,4.8,1.0,3.63
+Nico O'Reilly,MID,Manchester City,Ipswich Town,4.9,1.0,0.0
+Aaron Ramsdale,GK,Southampton,Nottingham Forest,4.4,1.0,3.06
+Igor Thiago Nascimento Rodrigues,FWD,Brentford,Liverpool,5.9,0.0,0.0
+Kaden Rodney,MID,Crystal Palace,West Ham United,4.5,1.0,0.01
+Armel Bella-Kotchap,DEF,Southampton,Nottingham Forest,3.9,1.0,0.0
+Rodrigo Martins Gomes,MID,Wolverhampton Wanderers,Chelsea,5.2,1.0,2.03
+Lamare Bogarde,DEF,Aston Villa,Arsenal,4.0,1.0,0.0
+Noussair Mazraoui,DEF,Manchester United,Brighton & Hove Albion,4.4,1.0,1.39
+Cameron Archer,FWD,Southampton,Nottingham Forest,5.0,1.0,0.37
+Ezri Konsa Ngoyo,DEF,Aston Villa,Arsenal,4.4,1.0,2.63
+Erling Haaland,FWD,Manchester City,Ipswich Town,14.8,1.0,5.32
+Virgil van Dijk,DEF,Liverpool,Brentford,6.4,1.0,3.05
+Bilal El Khannouss,MID,Leicester City,Fulham,4.8,1.0,1.01
+Matt Turner,GK,Crystal Palace,West Ham United,3.9,1.0,0.0
+Juan Larios López,DEF,Southampton,Nottingham Forest,4.0,0.0,0.0
+Toby Collyer,MID,Manchester United,Brighton & Hove Albion,4.5,1.0,0.17
+Asher Agbinone,MID,Crystal Palace,West Ham United,4.5,1.0,0.01
+Kadan Young,MID,Aston Villa,Arsenal,4.5,1.0,0.0
+Ethan Pinnock,DEF,Brentford,Liverpool,4.4,0.0,0.0
+William Saliba,DEF,Arsenal,Aston Villa,6.3,0.75,3.03
+Altay Bayindir,GK,Manchester United,Brighton & Hove Albion,4.3,1.0,0.0
+Chris Richards,DEF,Crystal Palace,West Ham United,4.4,1.0,1.93
+Rayan Aït-Nouri,DEF,Wolverhampton Wanderers,Chelsea,4.8,1.0,3.72
+James Justin,DEF,Leicester City,Fulham,4.2,1.0,1.03
+Joshua Zirkzee,FWD,Manchester United,Brighton & Hove Albion,6.5,1.0,0.94
+Martin Ødegaard,MID,Arsenal,Aston Villa,8.3,1.0,4.43
+Cesare Casadei,MID,Chelsea,Wolverhampton Wanderers,4.4,1.0,0.0
+Mario Lemina,MID,Wolverhampton Wanderers,Chelsea,4.9,1.0,0.21
+Adam Wharton,MID,Crystal Palace,West Ham United,4.7,0.0,0.02
+Luis Sinisterra,MID,Bournemouth,Newcastle United,4.8,0.0,0.0
+Michael Keane,DEF,Everton,Tottenham Hotspur,3.9,1.0,0.0
+Stephy Mavididi,MID,Leicester City,Fulham,5.1,1.0,2.5
+Anthony Gordon,MID,Newcastle United,Bournemouth,7.7,1.0,8.77
+Diego Carlos Santos Silva,DEF,Aston Villa,Arsenal,4.5,0.0,0.16
+Trent Alexander-Arnold,DEF,Liverpool,Brentford,7.2,1.0,5.16
+Josh King,MID,Fulham,Leicester City,4.5,1.0,0.87
+Matt O'Riley,MID,Brighton & Hove Albion,Manchester United,5.5,1.0,1.78
+Jørgen Strand Larsen,FWD,Wolverhampton Wanderers,Chelsea,5.4,1.0,3.19
+Jack Harrison,MID,Everton,Tottenham Hotspur,5.2,1.0,1.24
+Riccardo Calafiori,DEF,Arsenal,Aston Villa,5.8,0.75,0.9
+Luke Cundle,MID,Wolverhampton Wanderers,Chelsea,4.5,1.0,0.0
+Jan Bednarek,DEF,Southampton,Nottingham Forest,4.0,1.0,2.26
+André Onana,GK,Manchester United,Brighton & Hove Albion,5.1,1.0,1.72
+Odsonne Edouard,FWD,Leicester City,Fulham,5.1,1.0,0.0
+Deivid Washington de Souza Eugênio,FWD,Chelsea,Wolverhampton Wanderers,4.9,1.0,0.0
+Bukayo Saka,MID,Arsenal,Aston Villa,10.2,0.0,0.11
+Hamza Choudhury,MID,Leicester City,Fulham,4.3,1.0,0.34
+Wesley Fofana,DEF,Chelsea,Wolverhampton Wanderers,4.4,0.0,0.0
+Lucas Digne,DEF,Aston Villa,Arsenal,4.6,1.0,2.66
+Joe Aribo,MID,Southampton,Nottingham Forest,4.9,1.0,1.43
+Matthijs de Ligt,DEF,Manchester United,Brighton & Hove Albion,4.9,1.0,0.59
+Jack Hinshelwood,MID,Brighton & Hove Albion,Manchester United,4.9,0.5,0.0
+Antoine Semenyo,MID,Bournemouth,Newcastle United,5.6,1.0,6.56
+Will Dennis,GK,Bournemouth,Newcastle United,4.0,1.0,0.0
+Joe Lumley,GK,Southampton,Nottingham Forest,4.0,1.0,0.0
+Dwight McNeil,MID,Everton,Tottenham Hotspur,5.1,0.0,0.0
+Kim Ji-soo,DEF,Brentford,Liverpool,3.9,1.0,0.29
+Franco Umeh-Chibueze,MID,Crystal Palace,West Ham United,4.4,1.0,0.01
+Nathaniel Clyne,DEF,Crystal Palace,West Ham United,4.3,1.0,0.09
+Saša Lukić,MID,Fulham,Leicester City,4.8,1.0,2.06
+Kevin De Bruyne,MID,Manchester City,Ipswich Town,9.4,1.0,2.12
+Norberto Murara Neto,GK,Arsenal,Aston Villa,4.1,1.0,0.0
+Tyrell Malacia,DEF,Manchester United,Brighton & Hove Albion,4.4,1.0,0.13
+Lewis Dunk,DEF,Brighton & Hove Albion,Manchester United,4.3,1.0,2.55
+Antony Matheus dos Santos,MID,Manchester United,Brighton & Hove Albion,5.7,1.0,0.62
+Ibrahima Konaté,DEF,Liverpool,Brentford,5.1,1.0,0.51
+Chadi Riad Dnanou,DEF,Crystal Palace,West Ham United,4.3,1.0,0.01
+Levi Colwill,DEF,Chelsea,Wolverhampton Wanderers,4.6,0.75,1.89
+Nick Pope,GK,Newcastle United,Bournemouth,4.9,0.5,0.0
+Jorge Luiz Frello Filho,MID,Arsenal,Aston Villa,4.7,1.0,0.64
+Oliwier Zych,GK,Aston Villa,Arsenal,4.0,1.0,0.0
+Idrissa Gueye,MID,Everton,Tottenham Hotspur,4.8,1.0,1.0
+Joe Gomez,DEF,Liverpool,Brentford,4.7,0.0,0.4
+Dominic Calvert-Lewin,FWD,Everton,Tottenham Hotspur,5.4,1.0,1.12
+Yerson Mosquera,DEF,Wolverhampton Wanderers,Chelsea,3.9,0.0,-0.0
+Sil Swinkels,DEF,Aston Villa,Arsenal,4.0,1.0,0.0
+Konstantinos Tsimikas,DEF,Liverpool,Brentford,4.6,1.0,1.88
+Christian Nørgaard,MID,Brentford,Liverpool,4.8,1.0,2.94
+Emiliano Martínez Romero,GK,Aston Villa,Arsenal,5.0,1.0,2.73
+Declan Rice,MID,Arsenal,Aston Villa,6.2,1.0,3.44
+Gabriel dos Santos Magalhães,DEF,Arsenal,Aston Villa,6.4,1.0,2.5
+Cody Gakpo,FWD,Liverpool,Brentford,7.4,1.0,8.04
+Salah-Eddine Oulad M'hand,MID,Arsenal,Aston Villa,4.5,1.0,0.0
+Vitaly Janelt,MID,Brentford,Liverpool,4.9,1.0,2.02
+Adama Traoré,MID,Fulham,Leicester City,4.7,1.0,1.4
+Tommy Setford,GK,Arsenal,Aston Villa,4.5,1.0,0.0
+Alexis Mac Allister,MID,Liverpool,Brentford,6.2,1.0,5.86
+Endo Wataru,MID,Liverpool,Brentford,4.6,1.0,0.54
+Keane Lewis-Potter,MID,Brentford,Liverpool,5.0,1.0,3.21
+Michael Golding,MID,Leicester City,Fulham,4.4,1.0,0.0
+João Félix Sequeira,MID,Chelsea,Wolverhampton Wanderers,6.0,1.0,0.91
+Remi Matthews,GK,Crystal Palace,West Ham United,3.9,1.0,0.0
+Emile Smith Rowe,MID,Fulham,Leicester City,5.2,1.0,0.71
+Enes Ünal,FWD,Bournemouth,Newcastle United,5.4,0.0,0.46
+Lucas Bergström,GK,Chelsea,Wolverhampton Wanderers,3.9,1.0,0.0
+Francisco Evanilson de Lima Barbosa,FWD,Bournemouth,Newcastle United,5.7,0.0,1.83
+Gabriel Fernando de Jesus,FWD,Arsenal,Aston Villa,6.7,0.0,5.26
+Iliman Ndiaye,FWD,Everton,Tottenham Hotspur,5.4,1.0,2.89
+David Raya Martin,GK,Arsenal,Aston Villa,5.6,1.0,3.0
+Enso González,MID,Wolverhampton Wanderers,Chelsea,4.4,0.0,0.0
+Christopher Nkunku,MID,Chelsea,Wolverhampton Wanderers,5.8,1.0,0.74
+Manuel Akanji,DEF,Manchester City,Ipswich Town,5.3,1.0,2.0
+Ryan Gravenberch,MID,Liverpool,Brentford,5.0,1.0,2.05
+Joe Willock,MID,Newcastle United,Bournemouth,4.7,1.0,1.2
+Mark Flekken,GK,Brentford,Liverpool,4.4,1.0,2.94
+Lewis Cook,MID,Bournemouth,Newcastle United,5.0,1.0,2.54
+Alex Iwobi,MID,Fulham,Leicester City,5.9,1.0,6.04
+Ethan Nwaneri,MID,Arsenal,Aston Villa,4.5,0.0,1.05
+Ross Stewart,FWD,Southampton,Nottingham Forest,4.4,0.0,0.0
+Matt Doherty,DEF,Wolverhampton Wanderers,Chelsea,4.3,1.0,3.99
+Ilkay Gündogan,MID,Manchester City,Ipswich Town,6.4,1.0,0.99
+Conor Bradley,DEF,Liverpool,Brentford,4.7,1.0,0.3
+Tom Cairney,MID,Fulham,Leicester City,4.8,1.0,1.46
+Jarell Quansah,DEF,Liverpool,Brentford,3.9,1.0,0.29
+Jacob Ramsey,MID,Aston Villa,Arsenal,5.4,1.0,1.16
+Emiliano Buendía Stati,MID,Aston Villa,Arsenal,5.1,1.0,0.73
+James McAtee,MID,Manchester City,Ipswich Town,4.6,1.0,0.43
+Andrew Robertson,DEF,Liverpool,Brentford,5.9,1.0,2.76
+Youri Tielemans,MID,Aston Villa,Arsenal,5.5,1.0,2.3
+João Neves Virgínia,GK,Everton,Tottenham Hotspur,3.9,1.0,0.0
+Oleksandr Zinchenko,DEF,Arsenal,Aston Villa,4.8,1.0,0.41
+Ederson Santana de Moraes,GK,Manchester City,Ipswich Town,5.3,1.0,0.0
+Norberto Bercique Gomes Betuncal,FWD,Everton,Tottenham Hotspur,4.9,1.0,0.25
+Diogo Dalot Teixeira,DEF,Manchester United,Brighton & Hove Albion,5.0,1.0,0.53
+Danny Welbeck,FWD,Brighton & Hove Albion,Manchester United,5.5,1.0,0.24
+Yankuba Minteh,MID,Brighton & Hove Albion,Manchester United,5.0,1.0,0.89
+Nathan Aké,DEF,Manchester City,Ipswich Town,5.3,1.0,2.28
+Bernd Leno,GK,Fulham,Leicester City,5.0,1.0,2.84
+Jamaal Lascelles,DEF,Newcastle United,Bournemouth,4.5,0.0,0.0
+Axel Disasi,DEF,Chelsea,Wolverhampton Wanderers,4.2,1.0,0.93
+Ismeal Kabia,MID,Arsenal,Aston Villa,4.5,1.0,0.0
+Kevin Schade,MID,Brentford,Liverpool,5.1,1.0,2.94
+Victor Kristiansen,DEF,Leicester City,Fulham,4.5,1.0,0.36
+Kyle Walker-Peters,DEF,Southampton,Nottingham Forest,4.3,1.0,1.39
+Daniel Bentley,GK,Wolverhampton Wanderers,Chelsea,3.9,1.0,0.0
+Antonee Robinson,DEF,Fulham,Leicester City,5.1,1.0,3.59
+Patson Daka,FWD,Leicester City,Fulham,4.8,1.0,1.6
+Illia Zabarnyi,DEF,Bournemouth,Newcastle United,4.4,1.0,4.53
+Gavin Bazunu,GK,Southampton,Nottingham Forest,4.3,0.75,0.0
+Sven Botman,DEF,Newcastle United,Bournemouth,4.4,1.0,1.18
+Danny Ward,GK,Leicester City,Fulham,3.9,1.0,0.08
+Samuel Amo-Ameyaw,MID,Southampton,Nottingham Forest,4.4,1.0,0.0
+Joe Gauci,GK,Aston Villa,Arsenal,4.0,1.0,0.0
+João Pedro Junqueira de Jesus,FWD,Brighton & Hove Albion,Manchester United,5.6,1.0,5.74
+Justin Kluivert,MID,Bournemouth,Newcastle United,5.5,1.0,4.42
+Martin Dúbravka,GK,Newcastle United,Bournemouth,4.3,1.0,5.74
+Flynn Downes,MID,Southampton,Nottingham Forest,4.7,1.0,0.45
+Alejandro Garnacho,MID,Manchester United,Brighton & Hove Albion,6.0,1.0,1.19
+Jack Grealish,MID,Manchester City,Ipswich Town,6.4,1.0,0.29
+Simon Adingra,MID,Brighton & Hove Albion,Manchester United,5.2,1.0,3.38
+Ben Mee,DEF,Brentford,Liverpool,4.2,1.0,0.43
+Leon Chiwome,FWD,Wolverhampton Wanderers,Chelsea,4.5,1.0,0.0
+Harrison Armstrong,MID,Everton,Tottenham Hotspur,4.5,1.0,0.11
+Carney Chukwuemeka,MID,Chelsea,Wolverhampton Wanderers,4.8,1.0,0.0
+Tom King,GK,Wolverhampton Wanderers,Chelsea,4.0,1.0,0.0
+Wout Faes,DEF,Leicester City,Fulham,4.0,1.0,0.72
+Leny Yoro,DEF,Manchester United,Brighton & Hove Albion,4.3,1.0,1.0
+Pedro Lomba Neto,MID,Chelsea,Wolverhampton Wanderers,6.2,1.0,1.46
+Ian Maatsen,DEF,Aston Villa,Arsenal,4.5,1.0,0.74
+Harry Winks,MID,Leicester City,Fulham,4.4,1.0,1.65
+Mads Roerslev Rasmussen,DEF,Brentford,Liverpool,4.3,1.0,3.54
+Jurriën Timber,DEF,Arsenal,Aston Villa,5.6,1.0,2.8
+Saša Kalajdžić,FWD,Wolverhampton Wanderers,Chelsea,4.8,0.0,0.0
+Julio Enciso,MID,Brighton & Hove Albion,Manchester United,5.4,1.0,1.09
+Ayden Heaven,DEF,Arsenal,Aston Villa,4.0,1.0,0.0
+Marc Cucurella Saseta,DEF,Chelsea,Wolverhampton Wanderers,5.2,1.0,0.89
+Toti António Gomes,DEF,Wolverhampton Wanderers,Chelsea,4.3,0.5,2.64
+Dan Burn,DEF,Newcastle United,Bournemouth,4.4,1.0,4.43
+Jordan Pickford,GK,Everton,Tottenham Hotspur,5.0,1.0,3.84
+Boubacar Traoré,MID,Wolverhampton Wanderers,Chelsea,4.8,0.75,0.0
+Mikkel Damsgaard,MID,Brentford,Liverpool,5.0,1.0,3.28
+Luis Díaz,MID,Liverpool,Brentford,7.5,1.0,4.29
+Carlos Vinícius Alves Morais,FWD,Fulham,Leicester City,5.0,1.0,0.09
+Pervis Estupiñán,DEF,Brighton & Hove Albion,Manchester United,5.0,1.0,4.6
+James Milner,MID,Brighton & Hove Albion,Manchester United,5.0,0.0,0.0
+Ryan Trevitt,MID,Brentford,Liverpool,4.4,1.0,0.0
+Enzo Fernández,MID,Chelsea,Wolverhampton Wanderers,4.9,0.75,1.67
+Luke Shaw,DEF,Manchester United,Brighton & Hove Albion,4.9,0.25,0.0
+Fábio Freitas Gouveia Carvalho,MID,Brentford,Liverpool,4.6,1.0,0.06
+Jérémy Doku,MID,Manchester City,Ipswich Town,6.2,1.0,1.03
+Marcus Bettinelli,GK,Chelsea,Wolverhampton Wanderers,3.9,1.0,-0.01
+Alisson Ramses Becker,GK,Liverpool,Brentford,5.4,1.0,2.55
+Aaron Hickey,DEF,Brentford,Liverpool,4.3,0.0,0.0
+Alex McCarthy,GK,Southampton,Nottingham Forest,4.3,1.0,0.0
+Steven Benda,GK,Fulham,Leicester City,4.0,1.0,0.0
+Dean Henderson,GK,Crystal Palace,West Ham United,4.5,1.0,3.42
+Cheick Doucouré,MID,Crystal Palace,West Ham United,4.9,1.0,1.22
+Wilfred Ndidi,MID,Leicester City,Fulham,4.9,0.0,0.0
+Maxence Lacroix,DEF,Crystal Palace,West Ham United,4.5,1.0,3.35
+John Ruddy,GK,Newcastle United,Bournemouth,4.0,1.0,0.0
+Caleb Okoli,DEF,Leicester City,Fulham,4.0,1.0,0.44
+Odysseas Vlachodimos,GK,Newcastle United,Bournemouth,4.3,1.0,0.0
+Daichi Kamada,MID,Crystal Palace,West Ham United,5.1,1.0,1.17
+Reece James,DEF,Chelsea,Wolverhampton Wanderers,4.8,1.0,0.57
+Georginio Rutter,MID,Brighton & Hove Albion,Manchester United,5.1,1.0,1.88
+Santiago Bueno,DEF,Wolverhampton Wanderers,Chelsea,4.3,1.0,2.39
+Kenny Tete,DEF,Fulham,Leicester City,4.4,0.0,0.0
+Pablo Sarabia,MID,Wolverhampton Wanderers,Chelsea,5.0,1.0,0.48
+Diogo Teixeira da Silva,MID,Liverpool,Brentford,7.2,0.75,3.82
+Kortney Hause,DEF,Aston Villa,Arsenal,3.9,1.0,0.0
+Bastien Meupiyou,DEF,Wolverhampton Wanderers,Chelsea,3.9,1.0,0.0
+Tino Livramento,DEF,Newcastle United,Bournemouth,4.5,1.0,2.45
+Tyler Adams,MID,Bournemouth,Newcastle United,4.9,1.0,0.83
+Marcus Rashford,MID,Manchester United,Brighton & Hove Albion,6.6,1.0,0.0
+Daniel Muñoz,DEF,Crystal Palace,West Ham United,4.8,1.0,2.16
+Bruno Guimarães Rodriguez Moura,MID,Newcastle United,Bournemouth,6.1,1.0,3.79
+Charlie Taylor,DEF,Southampton,Nottingham Forest,3.9,1.0,-0.13
+Bryan Mbeumo,MID,Brentford,Liverpool,7.8,1.0,5.43
+Matty Cash,DEF,Aston Villa,Arsenal,4.4,1.0,1.77
+Adam Lallana,MID,Southampton,Nottingham Forest,5.0,1.0,0.52
+Sandro Tonali,MID,Newcastle United,Bournemouth,5.5,1.0,1.65
+Issa Diop,DEF,Fulham,Leicester City,4.4,1.0,1.79
+Igor Julio dos Santos de Paulo,DEF,Brighton & Hove Albion,Manchester United,4.4,0.0,0.38
+Joelinton Cássio Apolinário de Lira,MID,Newcastle United,Bournemouth,6.0,1.0,5.2
+John McGinn,MID,Aston Villa,Arsenal,5.2,0.5,1.63
+Oscar Bobb,MID,Manchester City,Ipswich Town,4.7,0.25,0.0
+Pedro Cardoso de Lima,DEF,Wolverhampton Wanderers,Chelsea,3.9,1.0,-0.0
+Nathan Collins,DEF,Brentford,Liverpool,4.5,1.0,2.7
+Jesper Lindstrøm,MID,Everton,Tottenham Hotspur,5.0,1.0,1.0
+Marc Guéhi,DEF,Crystal Palace,West Ham United,4.5,1.0,4.69
+William Osula,FWD,Newcastle United,Bournemouth,4.9,1.0,0.54
+Jean-Philippe Mateta,FWD,Crystal Palace,West Ham United,7.3,1.0,3.36
+Bernardo Veiga de Carvalho e Silva,MID,Manchester City,Ipswich Town,6.3,1.0,3.03
+Filip Jørgensen,GK,Chelsea,Wolverhampton Wanderers,4.2,1.0,0.25
+David Brooks,MID,Bournemouth,Newcastle United,4.9,1.0,0.98
+Solly March,MID,Brighton & Hove Albion,Manchester United,6.5,1.0,0.34
+Kieran Trippier,DEF,Newcastle United,Bournemouth,5.6,1.0,1.5
+John Stones,DEF,Manchester City,Ipswich Town,5.3,0.25,0.16
+Lewis Hall,DEF,Newcastle United,Bournemouth,5.0,1.0,5.93
+Marc Guiu Paz,FWD,Chelsea,Wolverhampton Wanderers,4.7,1.0,0.15
+Tyler Morton,MID,Liverpool,Brentford,4.4,1.0,0.0
+Matheus França de Oliveira,MID,Crystal Palace,West Ham United,4.4,0.0,0.01
+Calvin Bassey,DEF,Fulham,Leicester City,4.5,1.0,1.98
+Eddie Nketiah,FWD,Crystal Palace,West Ham United,5.9,1.0,0.43
+Andreas Hoelgebaum Pereira,MID,Fulham,Leicester City,5.0,1.0,1.52
+Matheus Santos Carneiro Da Cunha,FWD,Wolverhampton Wanderers,Chelsea,7.0,0.75,5.76
+Amadou Onana,MID,Aston Villa,Arsenal,4.8,0.75,1.49
+Morgan Rogers,MID,Aston Villa,Arsenal,5.5,1.0,6.22
+Reiss Nelson,MID,Fulham,Leicester City,5.0,0.0,0.0
+Tosin Adarabioyo,DEF,Chelsea,Wolverhampton Wanderers,4.2,1.0,1.31
+Matt Targett,DEF,Newcastle United,Bournemouth,4.0,1.0,0.07
+Jan Paul van Hecke,DEF,Brighton & Hove Albion,Manchester United,4.5,1.0,3.42
+Ollie Watkins,FWD,Aston Villa,Arsenal,8.9,1.0,5.46
+Jorge Cuenca Barreno,DEF,Fulham,Leicester City,4.4,1.0,0.0
+Rico Lewis,DEF,Manchester City,Ipswich Town,4.5,1.0,1.9
+Julián Araujo Zúñiga,DEF,Bournemouth,Newcastle United,4.3,0.0,0.0
+James Tarkowski,DEF,Everton,Tottenham Hotspur,4.8,1.0,2.25
+Joël Veltman,DEF,Brighton & Hove Albion,Manchester United,4.4,1.0,2.92
+Kamaldeen Sulemana,MID,Southampton,Nottingham Forest,5.0,1.0,1.0
+Tyrone Mings,DEF,Aston Villa,Arsenal,4.4,1.0,0.82
+Ethan Wheatley,FWD,Manchester United,Brighton & Hove Albion,4.5,1.0,0.0
+Amad Diallo,MID,Manchester United,Brighton & Hove Albion,5.6,1.0,6.34
+Malo Gusto,DEF,Chelsea,Wolverhampton Wanderers,4.9,1.0,0.92
+Jakub Stolarczyk,GK,Leicester City,Fulham,4.0,1.0,0.87
+Lloyd Kelly,DEF,Newcastle United,Bournemouth,4.2,1.0,0.26
+Mateus Gonçalo Espanha Fernandes,MID,Southampton,Nottingham Forest,5.0,1.0,1.5
+Dean Huijsen,DEF,Bournemouth,Newcastle United,4.4,1.0,6.28
+Carlos Roberto Forbs Borges,MID,Wolverhampton Wanderers,Chelsea,5.5,1.0,0.49
+André Trindade da Costa Neto,MID,Wolverhampton Wanderers,Chelsea,5.0,1.0,1.9
+Lewis Miley,MID,Newcastle United,Bournemouth,5.0,1.0,0.56
+Nathan Wood-Gordon,DEF,Southampton,Nottingham Forest,4.0,1.0,1.92
+Rodrigo Muniz Carvalho,FWD,Fulham,Leicester City,5.5,1.0,1.64
+Benjamin White,DEF,Arsenal,Aston Villa,6.1,0.0,0.0
+Abdul Fatawu,MID,Leicester City,Fulham,5.2,0.0,0.0
+Dominik Szoboszlai,MID,Liverpool,Brentford,6.3,1.0,2.41
+Tim Iroegbunam,MID,Everton,Tottenham Hotspur,4.3,0.0,0.0
+Roméo Lavia,MID,Chelsea,Wolverhampton Wanderers,4.5,0.75,0.0
+Leon Bailey,MID,Aston Villa,Arsenal,6.2,1.0,2.52
+Harvey Barnes,MID,Newcastle United,Bournemouth,6.0,0.0,0.82
+Harry Maguire,DEF,Manchester United,Brighton & Hove Albion,4.9,1.0,0.72
+Mark Travers,GK,Bournemouth,Newcastle United,4.4,1.0,1.18
+Will Smallbone,MID,Southampton,Nottingham Forest,5.0,1.0,0.14
+Mykhailo Mudryk,MID,Chelsea,Wolverhampton Wanderers,6.2,0.0,0.0
+Stefan Ortega Moreno,GK,Manchester City,Ipswich Town,5.2,1.0,3.0
+Renato Palma Veiga,MID,Chelsea,Wolverhampton Wanderers,4.4,1.0,0.0
+Eberechi Eze,MID,Crystal Palace,West Ham United,6.7,1.0,2.16
+Boubacar Kamara,MID,Aston Villa,Arsenal,5.0,1.0,2.41
+Victor Lindelöf,DEF,Manchester United,Brighton & Hove Albion,4.3,0.25,0.0
+Ross Barkley,MID,Aston Villa,Arsenal,5.2,0.0,2.83
+James McConnell,MID,Liverpool,Brentford,4.4,1.0,0.0
+Kobbie Mainoo,MID,Manchester United,Brighton & Hove Albion,5.2,1.0,1.5
+Sander Berge,MID,Fulham,Leicester City,5.0,1.0,0.28
+Maldini Kacurri,DEF,Arsenal,Aston Villa,4.0,1.0,0.0
+Adam Armstrong,FWD,Southampton,Nottingham Forest,5.1,1.0,1.16
+Emil Krafth,DEF,Newcastle United,Bournemouth,4.3,1.0,0.0
+Jakub Kiwior,DEF,Arsenal,Aston Villa,4.8,1.0,0.0
+Kristoffer Ajer,DEF,Brentford,Liverpool,4.4,0.0,0.1
+Will Hughes,MID,Crystal Palace,West Ham United,4.9,1.0,1.72
+Jakub Moder,MID,Brighton & Hove Albion,Manchester United,4.4,1.0,0.5
+Raheem Sterling,MID,Arsenal,Aston Villa,6.7,1.0,0.34
+Raúl Jiménez,FWD,Fulham,Leicester City,5.7,1.0,5.54
+Myles Lewis-Skelly,MID,Arsenal,Aston Villa,4.5,1.0,0.96
+Ashley Young,DEF,Everton,Tottenham Hotspur,4.7,1.0,1.65
+James Bree,DEF,Southampton,Nottingham Forest,3.9,1.0,1.26
