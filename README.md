@@ -1,9 +1,56 @@
-# Best-Team-Selection-FPL
-This project is about finding the best starting eleven based on predicted total points using PuLP model to identify the lineup with the potential to achieve the maximum total points. <br>
-This project will be updated every single gameweek, to update the starting lineup recommendation.
+# ⚽ FPL Prediction Pipeline
 
-## Link Deployment Website
-> https://fpl-rec-selection-lineup.streamlit.app
+This repository contains a pipeline for **merging datasets, predicting xPoints, and generating starting lineup predictions** for Fantasy Premier League players.
 
-## Source Dataset
-> https://github.com/vaastav/Fantasy-Premier-League/
+notebook/
+│
+├── merge-gw-season/
+│   ├── merge_dataset.py
+│   └── combine_players_info.py
+│
+├── predict-xpoints/
+│   ├── predict_xpoints_general.py
+│   ├── predict_xpoints_goalkeeper.py
+│   ├── predict_xpoints_defender.py
+│   ├── predict_xpoints_midfielder.py
+│   └── predict_xpoints_forward.py
+│
+└── starting-lineup/
+    ├── predict_lineup_general.py
+    └── predict_lineup_per_position.py
+
+
+## 🛠️ Notes
+
+- Run the scripts **in order** for consistent results.
+- The output of each step is used as the input for the next stage.
+
+## 🛠️ Setup
+```bash
+pip install -r requirements.txt
+
+
+## 🚀 Execution Order
+
+Run the scripts in the following order to ensure the pipeline works correctly:
+
+### 1. Merge Dataset
+python notebook/merge-gw-season/merge_dataset.py
+
+
+### 2. Combine Player Information
+python notebook/merge-gw-season/combine_players_info.py
+
+### 3. Predict xPoints
+Run the following five scripts to predict xPoints based on player positions:
+python notebook/predict-xpoints/predict_xpoints_general.py
+python notebook/predict-xpoints/predict_xpoints_goalkeeper.py
+python notebook/predict-xpoints/predict_xpoints_defender.py
+python notebook/predict-xpoints/predict_xpoints_midfielder.py
+python notebook/predict-xpoints/predict_xpoints_forward.py
+
+### 4. Predict Starting Lineup
+Finally, run the two scripts below to generate starting lineup predictions:
+python notebook/starting-lineup/predict_lineup_general.py
+python notebook/starting-lineup/predict_lineup_per_position.py
+
