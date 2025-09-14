@@ -1,7 +1,7 @@
 # ⚽ FPL Prediction Pipeline
 
 This repository contains a pipeline for **merging datasets, predicting xPoints, and generating starting lineup predictions** for Fantasy Premier League players.
-
+```
 notebook/
 │
 ├── merge-gw-season/
@@ -18,6 +18,7 @@ notebook/
 └── starting-lineup/
 ├── predict_lineup_general.py
 └── predict_lineup_per_position.py
+```
 
 
 ## 🛠️ Notes
